@@ -1,0 +1,1201 @@
+account_id,plan_tier,industry,seats,contract_value_monthly,signup_date,churned,churn_date,storyline
+ACC-00000,Scale,Media,14,3309.69,2026-02-01,False,,seasonal
+ACC-00001,Starter,EdTech,2,67.74,2025-12-04,True,2026-04-08,slow_decay
+ACC-00002,Starter,Logistics,2,79.0,2026-04-09,True,2026-07-09,slow_decay
+ACC-00003,Starter,Retail,5,496.07,2025-12-09,True,2026-03-13,sharp_drop
+ACC-00004,Starter,Healthcare,3,161.26,2026-04-28,False,,slow_decay
+ACC-00005,Scale,Healthcare,8,1637.51,2026-04-05,False,,healthy
+ACC-00006,Starter,Logistics,1,70.03,2025-12-13,False,,healthy
+ACC-00007,Starter,Professional Services,11,409.26,2026-02-19,False,,seasonal
+ACC-00008,Starter,FinTech,1,96.88,2026-04-09,True,2026-07-12,slow_decay
+ACC-00009,Growth,Retail,6,744.25,2025-11-02,False,,healthy
+ACC-00010,Enterprise,Manufacturing,9,1228.67,2026-01-24,False,,healthy
+ACC-00011,Growth,Healthcare,6,912.48,2026-05-06,False,,healthy
+ACC-00012,Growth,Healthcare,2,136.07,2026-03-08,False,,healthy
+ACC-00013,Growth,Manufacturing,3,400.83,2026-05-08,False,,healthy
+ACC-00014,Starter,Professional Services,3,99.97,2026-04-17,False,,healthy
+ACC-00015,Starter,Media,1,102.46,2026-02-06,True,2026-06-08,sharp_drop
+ACC-00016,Starter,Professional Services,11,407.73,2026-01-22,True,2026-06-19,slow_decay
+ACC-00017,Enterprise,Retail,24,6407.94,2026-01-19,True,2026-07-21,slow_decay
+ACC-00018,Starter,EdTech,1,117.59,2026-04-24,True,2026-07-23,sharp_drop
+ACC-00019,Starter,Professional Services,5,440.05,2026-01-07,False,,healthy
+ACC-00020,Starter,Retail,3,161.68,2025-11-22,False,,seasonal
+ACC-00021,Starter,Retail,4,431.62,2026-03-20,False,,seasonal
+ACC-00022,Starter,Media,6,299.79,2026-01-16,True,2026-05-25,slow_decay
+ACC-00023,Scale,Media,19,5058.27,2026-03-03,False,,healthy
+ACC-00024,Starter,EdTech,15,1115.44,2025-12-16,True,2026-06-19,slow_decay
+ACC-00025,Starter,EdTech,3,316.65,2025-11-14,False,,recovered
+ACC-00026,Starter,Logistics,1,44.72,2025-11-06,False,,healthy
+ACC-00027,Starter,FinTech,2,171.25,2026-02-20,True,2026-06-26,sharp_drop
+ACC-00028,Growth,Media,3,168.99,2026-01-08,True,2026-04-11,slow_decay
+ACC-00029,Starter,Manufacturing,1,32.42,2025-12-14,True,2026-04-06,slow_decay
+ACC-00030,Growth,Professional Services,1,176.57,2026-03-24,False,,recovered
+ACC-00031,Starter,Professional Services,5,154.13,2026-05-19,False,,seasonal
+ACC-00032,Growth,Manufacturing,7,1257.8,2025-12-05,False,,healthy
+ACC-00033,Starter,Logistics,3,215.49,2025-12-02,False,,healthy
+ACC-00034,Starter,Logistics,9,626.63,2026-04-09,True,2026-07-13,slow_decay
+ACC-00035,Starter,Healthcare,1,57.05,2026-02-23,True,2026-07-05,slow_decay
+ACC-00036,Starter,FinTech,8,331.43,2026-05-25,False,,slow_decay
+ACC-00037,Starter,Media,3,264.0,2025-11-02,False,,seasonal
+ACC-00038,Starter,Professional Services,4,348.81,2026-01-22,True,2026-07-19,slow_decay
+ACC-00039,Starter,Logistics,2,238.42,2026-04-08,False,,healthy
+ACC-00040,Growth,Healthcare,9,753.85,2026-02-25,False,,healthy
+ACC-00041,Starter,Media,1,76.68,2026-02-13,False,,healthy
+ACC-00042,Growth,EdTech,8,1526.99,2026-04-06,True,2026-07-21,sharp_drop
+ACC-00043,Growth,Logistics,9,984.24,2026-02-04,False,,seasonal
+ACC-00044,Growth,Professional Services,5,921.09,2025-12-11,False,,seasonal
+ACC-00045,Scale,Professional Services,19,4715.96,2025-12-21,True,2026-05-10,sharp_drop
+ACC-00046,Growth,Logistics,18,2696.24,2026-05-20,False,,recovered
+ACC-00047,Enterprise,Media,9,1572.53,2026-05-24,False,,sharp_drop
+ACC-00048,Starter,Media,9,1045.51,2025-12-22,False,,healthy
+ACC-00049,Starter,Manufacturing,3,163.25,2025-11-17,False,,seasonal
+ACC-00050,Starter,Retail,4,157.26,2026-02-26,False,,healthy
+ACC-00051,Growth,Manufacturing,3,517.31,2026-03-23,False,,healthy
+ACC-00052,Growth,Retail,6,788.7,2026-05-25,False,,seasonal
+ACC-00053,Starter,Retail,5,228.96,2025-12-07,False,,recovered
+ACC-00054,Scale,Professional Services,13,2223.88,2026-03-31,True,2026-07-22,sharp_drop
+ACC-00055,Scale,FinTech,4,1084.54,2026-03-01,False,,healthy
+ACC-00056,Enterprise,Media,17,2575.3,2026-01-06,False,,recovered
+ACC-00057,Growth,Manufacturing,6,486.41,2026-05-02,False,,healthy
+ACC-00058,Growth,EdTech,2,218.74,2026-01-13,True,2026-05-12,slow_decay
+ACC-00059,Starter,Logistics,5,569.43,2025-12-22,False,,healthy
+ACC-00060,Starter,EdTech,1,32.29,2026-01-10,True,2026-05-23,slow_decay
+ACC-00061,Starter,Media,15,1757.72,2026-01-31,False,,healthy
+ACC-00062,Starter,EdTech,1,100.37,2026-01-21,False,,seasonal
+ACC-00063,Growth,Media,7,1060.5,2026-01-12,False,,seasonal
+ACC-00064,Starter,FinTech,4,138.43,2026-02-21,False,,recovered
+ACC-00065,Enterprise,Logistics,12,3459.94,2026-03-11,False,,healthy
+ACC-00066,Starter,Retail,3,148.67,2025-11-05,False,,healthy
+ACC-00067,Growth,Retail,5,637.1,2026-02-24,False,,healthy
+ACC-00068,Starter,Healthcare,6,393.54,2026-04-20,False,,healthy
+ACC-00069,Starter,FinTech,6,697.4,2026-04-29,False,,healthy
+ACC-00070,Starter,Healthcare,2,228.58,2025-11-06,True,2026-05-12,slow_decay
+ACC-00071,Growth,Professional Services,12,2263.05,2026-04-29,False,,healthy
+ACC-00072,Scale,Media,31,6101.85,2026-03-15,False,,healthy
+ACC-00073,Starter,FinTech,1,43.57,2026-04-17,False,,recovered
+ACC-00074,Scale,Professional Services,18,3027.43,2026-04-25,False,,healthy
+ACC-00075,Starter,Media,2,149.82,2026-01-10,True,2026-05-14,slow_decay
+ACC-00076,Growth,Logistics,10,1812.76,2025-11-20,True,2026-05-15,slow_decay
+ACC-00077,Growth,FinTech,12,1762.22,2025-11-05,False,,seasonal
+ACC-00078,Starter,Manufacturing,2,102.55,2026-03-11,False,,healthy
+ACC-00079,Starter,Manufacturing,3,313.41,2026-05-13,False,,healthy
+ACC-00080,Growth,Professional Services,5,638.13,2026-03-08,False,,healthy
+ACC-00081,Growth,Manufacturing,7,476.38,2026-01-16,False,,healthy
+ACC-00082,Growth,Media,6,696.88,2025-12-30,True,2026-06-22,sharp_drop
+ACC-00083,Growth,Logistics,4,474.98,2025-12-27,False,,seasonal
+ACC-00084,Growth,Media,3,391.69,2025-11-27,False,,healthy
+ACC-00085,Scale,Logistics,10,2514.83,2026-02-13,False,,seasonal
+ACC-00086,Starter,Retail,3,266.23,2025-11-26,False,,recovered
+ACC-00087,Growth,Retail,5,883.47,2025-11-12,False,,healthy
+ACC-00088,Starter,Healthcare,2,186.26,2026-02-06,False,,healthy
+ACC-00089,Growth,Manufacturing,4,607.43,2026-02-25,True,2026-06-23,slow_decay
+ACC-00090,Scale,Retail,3,313.64,2026-04-22,True,2026-07-23,sharp_drop
+ACC-00091,Growth,Media,2,240.83,2026-02-09,False,,healthy
+ACC-00092,Starter,Media,8,316.18,2026-04-27,False,,healthy
+ACC-00093,Growth,Media,5,552.67,2025-12-19,True,2026-04-30,slow_decay
+ACC-00094,Scale,FinTech,7,1007.58,2026-05-13,False,,sharp_drop
+ACC-00095,Scale,Manufacturing,7,1397.21,2026-02-12,False,,healthy
+ACC-00096,Scale,Professional Services,7,515.77,2026-01-11,True,2026-05-22,slow_decay
+ACC-00097,Growth,Manufacturing,23,2267.82,2026-03-04,True,2026-06-20,slow_decay
+ACC-00098,Starter,Media,2,231.1,2026-03-08,False,,healthy
+ACC-00099,Starter,EdTech,1,38.06,2026-02-06,False,,healthy
+ACC-00100,Growth,Manufacturing,4,566.31,2026-02-12,False,,seasonal
+ACC-00101,Starter,Logistics,1,89.71,2026-04-08,True,2026-07-12,slow_decay
+ACC-00102,Starter,Manufacturing,3,179.31,2025-12-09,False,,seasonal
+ACC-00103,Starter,Manufacturing,1,55.62,2026-03-20,False,,recovered
+ACC-00104,Growth,Professional Services,4,344.19,2026-05-18,False,,healthy
+ACC-00105,Starter,FinTech,1,59.8,2025-11-09,False,,healthy
+ACC-00106,Growth,Manufacturing,2,169.9,2026-05-01,False,,healthy
+ACC-00107,Starter,Manufacturing,1,82.42,2026-02-16,False,,healthy
+ACC-00108,Growth,Logistics,9,1049.66,2026-01-26,True,2026-05-07,sharp_drop
+ACC-00109,Enterprise,Healthcare,50,12740.56,2025-11-10,False,,healthy
+ACC-00110,Growth,Manufacturing,4,389.16,2026-02-12,False,,healthy
+ACC-00111,Scale,Professional Services,3,412.79,2026-02-11,False,,recovered
+ACC-00112,Enterprise,Logistics,18,8594.83,2026-04-17,False,,healthy
+ACC-00113,Growth,Logistics,3,477.08,2026-05-04,False,,recovered
+ACC-00114,Starter,Professional Services,5,337.77,2026-02-26,False,,healthy
+ACC-00115,Growth,Logistics,4,584.55,2025-11-13,False,,healthy
+ACC-00116,Growth,Retail,7,1151.89,2026-03-13,True,2026-07-13,sharp_drop
+ACC-00117,Starter,Media,5,222.44,2026-05-08,False,,seasonal
+ACC-00118,Starter,Media,1,105.31,2026-03-28,True,2026-07-23,slow_decay
+ACC-00119,Growth,Manufacturing,2,342.16,2026-03-06,False,,seasonal
+ACC-00120,Growth,Manufacturing,4,719.73,2026-05-24,False,,healthy
+ACC-00121,Starter,Media,1,74.02,2025-11-22,False,,healthy
+ACC-00122,Enterprise,FinTech,13,2461.75,2026-02-15,False,,healthy
+ACC-00123,Scale,Professional Services,12,3162.51,2026-04-15,False,,healthy
+ACC-00124,Scale,Retail,9,743.6,2026-04-29,False,,recovered
+ACC-00125,Scale,Logistics,17,3506.24,2026-02-10,False,,recovered
+ACC-00126,Starter,Manufacturing,1,81.35,2026-05-20,False,,healthy
+ACC-00127,Growth,EdTech,4,313.31,2026-04-18,False,,healthy
+ACC-00128,Starter,Retail,6,341.14,2026-03-11,False,,healthy
+ACC-00129,Starter,Retail,7,349.51,2026-01-25,False,,seasonal
+ACC-00130,Starter,Professional Services,5,348.29,2026-04-12,False,,healthy
+ACC-00131,Growth,Professional Services,17,2655.44,2026-04-06,False,,healthy
+ACC-00132,Scale,EdTech,17,2354.64,2026-04-12,False,,healthy
+ACC-00133,Scale,Logistics,17,4663.69,2026-04-08,False,,healthy
+ACC-00134,Growth,EdTech,6,1128.11,2026-03-21,False,,healthy
+ACC-00135,Growth,Media,1,176.4,2025-12-07,False,,healthy
+ACC-00136,Starter,Retail,4,262.71,2026-01-22,True,2026-07-14,slow_decay
+ACC-00137,Starter,Media,1,88.03,2026-01-01,False,,healthy
+ACC-00138,Scale,Manufacturing,31,7687.39,2026-03-11,True,2026-06-11,sharp_drop
+ACC-00139,Growth,Professional Services,3,376.37,2026-02-09,False,,healthy
+ACC-00140,Starter,EdTech,3,207.58,2026-03-07,True,2026-06-21,slow_decay
+ACC-00141,Growth,Media,4,474.55,2026-04-08,False,,healthy
+ACC-00142,Scale,EdTech,9,2546.92,2026-02-15,False,,healthy
+ACC-00143,Starter,Professional Services,7,331.07,2026-01-22,True,2026-06-30,slow_decay
+ACC-00144,Growth,Media,8,1530.03,2025-11-08,True,2026-02-17,slow_decay
+ACC-00145,Scale,Professional Services,5,1294.12,2026-02-17,False,,recovered
+ACC-00146,Growth,Media,2,335.68,2026-01-16,False,,healthy
+ACC-00147,Growth,Retail,5,475.22,2025-11-24,False,,healthy
+ACC-00148,Starter,Healthcare,2,178.75,2026-05-14,False,,seasonal
+ACC-00149,Growth,Media,8,728.58,2026-01-15,False,,healthy
+ACC-00150,Growth,Professional Services,2,132.43,2025-11-14,True,2026-07-01,sharp_drop
+ACC-00151,Growth,Retail,8,966.92,2026-04-20,False,,healthy
+ACC-00152,Scale,Professional Services,7,1178.32,2025-11-30,False,,healthy
+ACC-00153,Starter,Healthcare,8,373.37,2026-02-05,False,,healthy
+ACC-00154,Starter,Retail,4,345.43,2026-04-25,False,,healthy
+ACC-00155,Growth,Manufacturing,8,1270.24,2026-02-27,False,,healthy
+ACC-00156,Starter,Professional Services,2,195.57,2025-12-20,False,,healthy
+ACC-00157,Starter,Manufacturing,1,88.06,2025-12-21,False,,recovered
+ACC-00158,Growth,Healthcare,3,239.7,2026-05-17,False,,healthy
+ACC-00159,Growth,Manufacturing,18,1206.72,2026-01-31,False,,seasonal
+ACC-00160,Scale,Logistics,10,2779.76,2025-12-02,False,,recovered
+ACC-00161,Starter,Healthcare,3,291.11,2026-02-22,False,,seasonal
+ACC-00162,Growth,Logistics,3,448.9,2025-12-26,False,,seasonal
+ACC-00163,Starter,Healthcare,7,433.3,2026-02-26,True,2026-06-26,slow_decay
+ACC-00164,Starter,Logistics,9,562.07,2025-11-04,True,2026-06-13,sharp_drop
+ACC-00165,Growth,Logistics,3,556.56,2026-03-30,False,,recovered
+ACC-00166,Scale,Professional Services,21,2360.51,2026-01-15,False,,seasonal
+ACC-00167,Starter,Professional Services,10,1126.33,2025-12-06,False,,recovered
+ACC-00168,Scale,EdTech,18,4130.38,2025-11-21,False,,healthy
+ACC-00169,Starter,Logistics,3,133.78,2026-03-18,True,2026-06-18,sharp_drop
+ACC-00170,Growth,Healthcare,5,619.89,2026-03-31,False,,healthy
+ACC-00171,Growth,Media,5,274.04,2025-12-23,True,2026-06-22,sharp_drop
+ACC-00172,Enterprise,EdTech,19,7626.25,2025-12-06,False,,recovered
+ACC-00173,Starter,Healthcare,1,102.4,2026-04-06,False,,seasonal
+ACC-00174,Scale,EdTech,13,1840.55,2026-03-10,False,,recovered
+ACC-00175,Starter,Media,3,117.02,2026-02-27,False,,recovered
+ACC-00176,Growth,Retail,12,1521.29,2026-01-11,False,,seasonal
+ACC-00177,Starter,Retail,3,181.73,2025-12-04,False,,healthy
+ACC-00178,Starter,Logistics,2,188.26,2025-11-29,False,,seasonal
+ACC-00179,Growth,Retail,6,635.04,2026-01-22,True,2026-07-11,slow_decay
+ACC-00180,Starter,EdTech,3,213.21,2026-01-11,True,2026-04-12,slow_decay
+ACC-00181,Starter,Media,3,198.88,2025-11-26,True,2026-04-27,slow_decay
+ACC-00182,Scale,EdTech,16,3390.92,2026-01-22,False,,healthy
+ACC-00183,Scale,Healthcare,4,457.09,2026-05-26,False,,healthy
+ACC-00184,Starter,EdTech,13,1118.19,2026-04-13,False,,healthy
+ACC-00185,Enterprise,Professional Services,10,3883.0,2026-03-22,False,,healthy
+ACC-00186,Starter,EdTech,3,148.09,2026-03-10,False,,healthy
+ACC-00187,Starter,Media,3,315.74,2026-02-14,True,2026-05-24,slow_decay
+ACC-00188,Starter,Logistics,4,170.33,2026-02-17,False,,recovered
+ACC-00189,Growth,Logistics,6,566.15,2026-05-28,False,,healthy
+ACC-00190,Growth,Healthcare,9,1253.73,2025-12-09,False,,healthy
+ACC-00191,Starter,Logistics,1,56.46,2025-12-02,False,,healthy
+ACC-00192,Growth,Retail,3,271.24,2025-12-01,True,2026-05-10,slow_decay
+ACC-00193,Starter,Healthcare,4,137.47,2025-11-14,True,2026-02-16,slow_decay
+ACC-00194,Growth,EdTech,11,1542.8,2026-02-26,False,,healthy
+ACC-00195,Growth,Retail,8,938.8,2025-11-04,True,2026-02-28,sharp_drop
+ACC-00196,Growth,Logistics,6,332.17,2026-05-12,False,,healthy
+ACC-00197,Growth,Healthcare,16,2016.48,2026-04-18,False,,healthy
+ACC-00198,Starter,Manufacturing,2,76.37,2025-11-29,False,,healthy
+ACC-00199,Starter,Retail,1,97.85,2026-03-10,True,2026-07-15,sharp_drop
+ACC-00200,Starter,Retail,20,1503.7,2026-02-24,True,2026-07-20,sharp_drop
+ACC-00201,Growth,Healthcare,27,4815.58,2025-12-18,False,,healthy
+ACC-00202,Growth,Logistics,9,1041.37,2026-01-31,False,,healthy
+ACC-00203,Growth,Manufacturing,8,540.63,2026-05-28,False,,slow_decay
+ACC-00204,Enterprise,Media,26,3341.31,2026-05-25,False,,seasonal
+ACC-00205,Growth,Logistics,7,945.58,2026-02-09,True,2026-07-07,sharp_drop
+ACC-00206,Starter,Logistics,1,58.86,2025-11-17,False,,healthy
+ACC-00207,Growth,Media,10,1857.7,2026-04-08,False,,healthy
+ACC-00208,Enterprise,Manufacturing,11,4973.1,2025-12-10,False,,healthy
+ACC-00209,Growth,EdTech,14,1414.39,2025-12-28,True,2026-06-16,slow_decay
+ACC-00210,Starter,Media,1,74.15,2026-05-12,False,,healthy
+ACC-00211,Scale,Healthcare,6,1508.19,2026-04-26,False,,healthy
+ACC-00212,Starter,Healthcare,2,188.2,2026-05-04,False,,healthy
+ACC-00213,Enterprise,Logistics,4,1599.33,2026-04-17,False,,seasonal
+ACC-00214,Starter,Retail,3,283.19,2025-11-25,True,2026-03-30,slow_decay
+ACC-00215,Growth,EdTech,8,833.72,2026-03-15,True,2026-06-19,slow_decay
+ACC-00216,Starter,Manufacturing,2,91.48,2026-03-18,False,,healthy
+ACC-00217,Growth,Manufacturing,22,3829.12,2026-03-31,True,2026-07-20,sharp_drop
+ACC-00218,Enterprise,FinTech,30,6403.07,2026-05-20,False,,healthy
+ACC-00219,Scale,Manufacturing,4,860.99,2025-11-02,False,,healthy
+ACC-00220,Growth,FinTech,6,414.69,2026-03-22,False,,recovered
+ACC-00221,Starter,Logistics,1,77.15,2026-03-01,False,,healthy
+ACC-00222,Scale,Logistics,3,620.27,2025-12-17,False,,healthy
+ACC-00223,Growth,Manufacturing,7,894.08,2026-03-02,False,,healthy
+ACC-00224,Growth,Manufacturing,3,495.35,2026-05-03,False,,seasonal
+ACC-00225,Enterprise,Professional Services,43,11556.52,2026-03-25,False,,seasonal
+ACC-00226,Enterprise,Professional Services,13,3917.42,2025-11-05,False,,healthy
+ACC-00227,Enterprise,Manufacturing,27,9568.61,2026-01-24,False,,healthy
+ACC-00228,Growth,Manufacturing,9,1610.92,2026-03-01,False,,healthy
+ACC-00229,Starter,EdTech,7,374.09,2026-05-06,False,,recovered
+ACC-00230,Growth,Retail,9,854.58,2026-01-01,False,,seasonal
+ACC-00231,Starter,Media,1,94.41,2026-05-27,False,,healthy
+ACC-00232,Growth,Professional Services,3,386.42,2026-05-25,False,,healthy
+ACC-00233,Growth,Retail,6,1124.99,2026-01-20,False,,healthy
+ACC-00234,Starter,FinTech,1,49.02,2026-01-25,False,,healthy
+ACC-00235,Growth,EdTech,15,1967.91,2026-05-21,False,,healthy
+ACC-00236,Scale,Manufacturing,1,261.98,2025-11-09,False,,healthy
+ACC-00237,Growth,EdTech,37,3390.67,2026-02-12,False,,healthy
+ACC-00238,Growth,Media,1,49.46,2025-12-02,False,,healthy
+ACC-00239,Enterprise,EdTech,60,22533.36,2025-11-20,True,2026-03-09,sharp_drop
+ACC-00240,Growth,EdTech,11,2068.65,2026-05-06,False,,seasonal
+ACC-00241,Starter,Logistics,1,44.19,2025-11-02,False,,healthy
+ACC-00242,Scale,Retail,8,1462.88,2025-12-10,False,,healthy
+ACC-00243,Growth,EdTech,3,213.0,2026-01-15,True,2026-07-22,slow_decay
+ACC-00244,Growth,Retail,6,766.47,2026-01-27,True,2026-04-29,sharp_drop
+ACC-00245,Enterprise,FinTech,13,4809.03,2026-04-12,False,,healthy
+ACC-00246,Starter,Retail,3,355.09,2026-01-14,False,,healthy
+ACC-00247,Growth,FinTech,6,613.18,2026-05-20,False,,healthy
+ACC-00248,Starter,Media,1,110.64,2025-11-09,False,,healthy
+ACC-00249,Growth,Healthcare,8,446.61,2025-12-06,False,,healthy
+ACC-00250,Growth,Manufacturing,7,341.77,2026-05-10,False,,healthy
+ACC-00251,Growth,Media,21,1624.96,2026-03-09,True,2026-07-22,slow_decay
+ACC-00252,Starter,Logistics,5,558.81,2026-01-22,False,,seasonal
+ACC-00253,Growth,Healthcare,4,414.77,2026-02-20,False,,seasonal
+ACC-00254,Growth,Manufacturing,6,890.64,2026-01-27,False,,healthy
+ACC-00255,Starter,Healthcare,3,296.78,2026-03-08,False,,healthy
+ACC-00256,Enterprise,Media,18,3279.36,2025-11-24,False,,healthy
+ACC-00257,Starter,Healthcare,8,503.62,2026-01-15,True,2026-05-01,slow_decay
+ACC-00258,Scale,Healthcare,3,310.53,2026-05-16,False,,healthy
+ACC-00259,Growth,EdTech,6,954.7,2025-12-14,False,,healthy
+ACC-00260,Scale,Media,4,530.71,2026-05-27,False,,seasonal
+ACC-00261,Starter,Logistics,2,124.35,2026-01-12,True,2026-05-25,sharp_drop
+ACC-00262,Starter,Media,1,51.65,2026-05-09,False,,recovered
+ACC-00263,Scale,Retail,4,519.01,2026-04-16,False,,healthy
+ACC-00264,Starter,Manufacturing,5,162.72,2025-11-19,False,,healthy
+ACC-00265,Enterprise,Professional Services,8,3031.91,2026-01-31,True,2026-06-05,slow_decay
+ACC-00266,Growth,Media,10,1037.44,2025-12-12,False,,seasonal
+ACC-00267,Growth,Healthcare,16,803.17,2025-11-02,False,,seasonal
+ACC-00268,Scale,FinTech,11,1574.56,2026-05-25,False,,sharp_drop
+ACC-00269,Enterprise,Healthcare,12,2716.93,2025-12-01,False,,healthy
+ACC-00270,Scale,EdTech,7,599.55,2026-04-28,False,,healthy
+ACC-00271,Growth,EdTech,3,277.72,2026-02-16,True,2026-07-16,slow_decay
+ACC-00272,Growth,Logistics,8,856.34,2026-04-12,False,,healthy
+ACC-00273,Scale,FinTech,9,2131.02,2025-11-02,False,,seasonal
+ACC-00274,Scale,Logistics,9,2405.98,2026-02-23,True,2026-06-24,slow_decay
+ACC-00275,Starter,Professional Services,3,107.81,2026-05-24,False,,slow_decay
+ACC-00276,Enterprise,FinTech,2,304.03,2026-05-23,False,,slow_decay
+ACC-00277,Starter,Retail,3,185.4,2026-05-23,False,,slow_decay
+ACC-00278,Starter,Manufacturing,1,115.11,2026-02-23,True,2026-06-02,sharp_drop
+ACC-00279,Growth,Media,2,273.46,2026-03-18,False,,seasonal
+ACC-00280,Starter,EdTech,9,778.83,2026-05-10,False,,sharp_drop
+ACC-00281,Starter,EdTech,4,404.4,2026-04-07,False,,healthy
+ACC-00282,Scale,Manufacturing,19,1409.53,2026-01-13,True,2026-07-22,slow_decay
+ACC-00283,Growth,Healthcare,2,354.69,2026-05-28,False,,recovered
+ACC-00284,Starter,Manufacturing,1,88.24,2026-02-02,False,,healthy
+ACC-00285,Enterprise,FinTech,51,9163.66,2026-04-16,False,,healthy
+ACC-00286,Scale,Media,11,1135.0,2026-03-06,False,,healthy
+ACC-00287,Enterprise,EdTech,3,1434.72,2026-03-23,True,2026-07-11,slow_decay
+ACC-00288,Starter,Retail,11,748.28,2025-11-17,True,2026-07-01,slow_decay
+ACC-00289,Starter,Logistics,7,350.14,2026-01-04,False,,healthy
+ACC-00290,Scale,Retail,15,1330.03,2026-05-21,False,,recovered
+ACC-00291,Scale,Manufacturing,24,5100.22,2025-12-02,False,,healthy
+ACC-00292,Scale,Professional Services,10,1222.24,2025-12-30,False,,seasonal
+ACC-00293,Scale,Manufacturing,8,2205.13,2026-04-05,True,2026-07-10,slow_decay
+ACC-00294,Enterprise,EdTech,18,3942.52,2025-12-07,False,,healthy
+ACC-00295,Scale,Retail,5,904.65,2026-02-05,False,,healthy
+ACC-00296,Growth,Manufacturing,2,126.52,2026-01-14,False,,healthy
+ACC-00297,Starter,Manufacturing,1,67.8,2026-02-09,False,,healthy
+ACC-00298,Scale,Healthcare,4,524.9,2026-05-10,False,,seasonal
+ACC-00299,Growth,Professional Services,2,349.53,2026-02-02,False,,seasonal
+ACC-00300,Starter,FinTech,7,602.31,2026-02-06,False,,seasonal
+ACC-00301,Starter,EdTech,3,323.4,2026-01-29,False,,healthy
+ACC-00302,Scale,Professional Services,5,784.07,2026-03-20,True,2026-07-06,slow_decay
+ACC-00303,Scale,Manufacturing,14,1167.43,2026-01-10,False,,recovered
+ACC-00304,Scale,EdTech,4,572.31,2025-11-12,False,,healthy
+ACC-00305,Growth,Manufacturing,3,571.36,2026-01-10,True,2026-04-26,sharp_drop
+ACC-00306,Growth,Healthcare,16,1597.57,2025-12-04,False,,seasonal
+ACC-00307,Scale,Retail,19,5014.08,2026-03-14,True,2026-06-12,slow_decay
+ACC-00308,Starter,Logistics,2,80.12,2026-02-17,True,2026-07-14,sharp_drop
+ACC-00309,Growth,FinTech,14,752.43,2026-05-24,False,,healthy
+ACC-00310,Enterprise,Retail,23,3466.74,2026-05-04,False,,slow_decay
+ACC-00311,Starter,Manufacturing,11,715.64,2026-04-14,True,2026-07-20,slow_decay
+ACC-00312,Growth,Media,10,1165.29,2026-01-10,False,,recovered
+ACC-00313,Starter,Healthcare,8,782.84,2025-12-21,False,,healthy
+ACC-00314,Starter,Healthcare,3,289.81,2026-04-29,False,,healthy
+ACC-00315,Starter,Media,3,343.21,2025-12-27,True,2026-04-06,sharp_drop
+ACC-00316,Starter,Manufacturing,1,93.14,2025-12-28,False,,recovered
+ACC-00317,Scale,Manufacturing,21,2995.61,2026-02-12,False,,healthy
+ACC-00318,Enterprise,Logistics,8,3619.26,2026-02-01,False,,healthy
+ACC-00319,Scale,Retail,7,1113.49,2026-05-06,False,,healthy
+ACC-00320,Growth,EdTech,2,113.31,2026-03-15,False,,seasonal
+ACC-00321,Growth,EdTech,3,144.55,2026-02-28,False,,healthy
+ACC-00322,Scale,Media,19,1811.59,2026-01-03,True,2026-06-14,sharp_drop
+ACC-00323,Starter,Healthcare,1,108.88,2025-12-05,False,,healthy
+ACC-00324,Starter,Media,4,329.78,2026-04-28,False,,healthy
+ACC-00325,Growth,Healthcare,17,1311.2,2025-12-29,True,2026-05-20,slow_decay
+ACC-00326,Growth,FinTech,12,2281.1,2025-12-25,False,,healthy
+ACC-00327,Starter,Professional Services,14,978.81,2025-11-23,False,,seasonal
+ACC-00328,Starter,Logistics,6,587.8,2025-11-18,True,2026-04-17,slow_decay
+ACC-00329,Growth,Logistics,1,67.59,2026-03-25,False,,healthy
+ACC-00330,Scale,Healthcare,13,3377.39,2026-03-31,False,,recovered
+ACC-00331,Scale,Retail,20,5041.92,2026-01-08,False,,healthy
+ACC-00332,Starter,Professional Services,2,137.65,2026-04-23,False,,healthy
+ACC-00333,Scale,EdTech,21,2156.66,2025-12-14,False,,healthy
+ACC-00334,Growth,Healthcare,5,680.38,2025-11-14,False,,seasonal
+ACC-00335,Growth,Media,5,515.73,2026-02-17,False,,healthy
+ACC-00336,Growth,Professional Services,4,231.88,2026-01-24,False,,seasonal
+ACC-00337,Growth,EdTech,28,3192.23,2025-11-27,False,,recovered
+ACC-00338,Scale,Retail,20,2407.35,2026-05-04,False,,recovered
+ACC-00339,Scale,Retail,5,1172.22,2026-01-03,False,,seasonal
+ACC-00340,Starter,Healthcare,3,171.24,2026-05-28,False,,seasonal
+ACC-00341,Enterprise,FinTech,39,11005.68,2025-11-17,True,2026-05-02,slow_decay
+ACC-00342,Scale,Media,8,794.48,2026-05-20,False,,recovered
+ACC-00343,Enterprise,Retail,6,1728.9,2025-11-25,False,,healthy
+ACC-00344,Enterprise,Media,15,5987.35,2025-11-08,True,2026-04-06,slow_decay
+ACC-00345,Growth,Retail,2,205.51,2026-02-02,True,2026-05-18,sharp_drop
+ACC-00346,Enterprise,Professional Services,35,13665.66,2026-03-28,True,2026-07-05,slow_decay
+ACC-00347,Growth,FinTech,3,512.81,2026-01-24,True,2026-05-11,slow_decay
+ACC-00348,Growth,EdTech,9,1172.84,2026-02-09,False,,healthy
+ACC-00349,Growth,Manufacturing,3,282.25,2026-02-28,True,2026-07-19,sharp_drop
+ACC-00350,Starter,Logistics,4,254.7,2026-02-24,False,,healthy
+ACC-00351,Starter,Retail,4,397.24,2026-04-13,False,,healthy
+ACC-00352,Starter,FinTech,2,223.66,2025-12-18,True,2026-05-12,slow_decay
+ACC-00353,Scale,Logistics,18,1338.47,2025-12-30,True,2026-04-25,slow_decay
+ACC-00354,Scale,Manufacturing,10,1648.71,2026-03-12,False,,healthy
+ACC-00355,Starter,EdTech,4,453.01,2026-01-23,False,,healthy
+ACC-00356,Starter,FinTech,1,104.15,2026-02-20,False,,healthy
+ACC-00357,Scale,Manufacturing,3,400.11,2026-01-08,True,2026-04-15,slow_decay
+ACC-00358,Scale,Professional Services,12,3414.74,2026-03-21,False,,recovered
+ACC-00359,Starter,Professional Services,6,217.0,2026-03-31,True,2026-07-13,sharp_drop
+ACC-00360,Enterprise,EdTech,16,4582.91,2025-11-24,False,,healthy
+ACC-00361,Starter,Media,2,101.19,2025-12-06,True,2026-03-27,slow_decay
+ACC-00362,Growth,Manufacturing,5,310.96,2026-02-09,False,,seasonal
+ACC-00363,Enterprise,EdTech,14,2396.08,2026-05-29,False,,healthy
+ACC-00364,Scale,Manufacturing,7,753.09,2026-05-27,False,,healthy
+ACC-00365,Growth,Professional Services,5,609.58,2026-05-05,False,,sharp_drop
+ACC-00366,Scale,Professional Services,10,1877.19,2026-05-16,False,,healthy
+ACC-00367,Enterprise,FinTech,22,8444.51,2025-11-20,False,,healthy
+ACC-00368,Scale,Manufacturing,7,1355.81,2026-04-12,False,,seasonal
+ACC-00369,Enterprise,EdTech,12,1742.88,2026-02-07,False,,recovered
+ACC-00370,Growth,EdTech,17,1444.26,2026-03-15,True,2026-06-24,slow_decay
+ACC-00371,Growth,Media,3,278.17,2026-04-27,False,,seasonal
+ACC-00372,Growth,Media,6,1115.25,2026-03-29,False,,healthy
+ACC-00373,Growth,Professional Services,6,495.43,2025-11-09,False,,healthy
+ACC-00374,Starter,Media,1,79.67,2026-02-16,False,,seasonal
+ACC-00375,Growth,Manufacturing,1,143.71,2026-01-26,True,2026-05-08,slow_decay
+ACC-00376,Scale,Professional Services,14,2495.42,2026-04-15,False,,healthy
+ACC-00377,Scale,Professional Services,12,2752.03,2025-12-16,False,,seasonal
+ACC-00378,Enterprise,Logistics,6,1319.81,2025-12-21,True,2026-06-28,slow_decay
+ACC-00379,Growth,Retail,3,303.07,2026-01-17,False,,healthy
+ACC-00380,Growth,Professional Services,3,300.38,2026-01-07,True,2026-06-09,sharp_drop
+ACC-00381,Growth,Logistics,2,105.59,2026-04-02,True,2026-07-01,slow_decay
+ACC-00382,Scale,Logistics,6,1705.88,2025-12-10,True,2026-05-30,sharp_drop
+ACC-00383,Starter,Healthcare,1,48.22,2026-04-22,False,,healthy
+ACC-00384,Scale,EdTech,7,872.82,2025-11-04,True,2026-02-20,slow_decay
+ACC-00385,Starter,Healthcare,1,56.59,2026-02-10,False,,recovered
+ACC-00386,Enterprise,Manufacturing,34,4111.0,2025-11-10,False,,healthy
+ACC-00387,Starter,Logistics,1,90.41,2026-04-04,False,,recovered
+ACC-00388,Starter,FinTech,9,320.77,2026-02-09,True,2026-05-30,sharp_drop
+ACC-00389,Growth,Media,5,816.71,2025-11-21,True,2026-06-07,sharp_drop
+ACC-00390,Starter,FinTech,3,159.24,2025-12-26,True,2026-04-18,slow_decay
+ACC-00391,Scale,Media,8,1213.95,2026-05-26,False,,slow_decay
+ACC-00392,Scale,Logistics,9,1820.19,2026-04-22,True,2026-07-22,slow_decay
+ACC-00393,Growth,Professional Services,3,390.02,2025-11-22,True,2026-03-22,slow_decay
+ACC-00394,Enterprise,Manufacturing,4,891.29,2026-04-18,False,,healthy
+ACC-00395,Starter,Logistics,8,513.92,2026-05-12,False,,healthy
+ACC-00396,Starter,FinTech,1,104.61,2026-03-21,True,2026-07-13,sharp_drop
+ACC-00397,Growth,Healthcare,1,166.66,2026-01-17,False,,seasonal
+ACC-00398,Starter,Healthcare,1,109.76,2026-01-13,False,,healthy
+ACC-00399,Enterprise,Retail,30,13815.36,2026-01-15,False,,healthy
+ACC-00400,Growth,FinTech,11,1354.73,2026-02-17,False,,seasonal
+ACC-00401,Growth,Healthcare,5,549.7,2026-05-06,False,,seasonal
+ACC-00402,Starter,Manufacturing,3,318.03,2026-03-19,False,,healthy
+ACC-00403,Starter,Professional Services,8,896.86,2026-01-31,False,,recovered
+ACC-00404,Starter,Retail,2,204.86,2026-02-27,True,2026-06-09,sharp_drop
+ACC-00405,Scale,Retail,10,932.71,2025-12-20,False,,seasonal
+ACC-00406,Scale,EdTech,9,1131.0,2026-02-17,False,,healthy
+ACC-00407,Starter,Healthcare,6,514.55,2026-02-23,False,,healthy
+ACC-00408,Starter,Professional Services,3,134.61,2025-11-24,True,2026-04-01,slow_decay
+ACC-00409,Enterprise,FinTech,16,2096.52,2025-12-06,False,,healthy
+ACC-00410,Starter,Media,2,104.12,2026-05-04,False,,slow_decay
+ACC-00411,Growth,Retail,2,271.79,2026-03-26,False,,healthy
+ACC-00412,Starter,FinTech,3,142.35,2025-12-12,False,,healthy
+ACC-00413,Growth,Logistics,15,1535.14,2026-01-21,False,,healthy
+ACC-00414,Growth,Retail,4,622.53,2026-01-24,False,,healthy
+ACC-00415,Enterprise,EdTech,19,7082.24,2026-02-01,False,,healthy
+ACC-00416,Growth,Manufacturing,6,316.7,2025-11-24,False,,healthy
+ACC-00417,Starter,Manufacturing,5,385.4,2026-03-12,True,2026-07-20,sharp_drop
+ACC-00418,Growth,FinTech,8,1361.96,2026-05-06,False,,healthy
+ACC-00419,Growth,Manufacturing,9,1669.42,2026-03-11,True,2026-07-03,slow_decay
+ACC-00420,Scale,Retail,5,737.92,2025-12-01,True,2026-04-19,slow_decay
+ACC-00421,Starter,EdTech,1,48.32,2026-03-07,False,,healthy
+ACC-00422,Starter,Manufacturing,4,370.48,2026-01-04,False,,healthy
+ACC-00423,Growth,Retail,4,473.38,2026-04-25,False,,healthy
+ACC-00424,Starter,FinTech,3,96.38,2025-12-30,True,2026-06-14,slow_decay
+ACC-00425,Starter,FinTech,1,99.01,2026-03-18,True,2026-07-12,sharp_drop
+ACC-00426,Growth,Manufacturing,6,427.06,2026-05-01,False,,seasonal
+ACC-00427,Starter,Manufacturing,1,48.97,2026-03-07,True,2026-06-07,slow_decay
+ACC-00428,Scale,Logistics,3,359.44,2026-05-13,False,,seasonal
+ACC-00429,Starter,EdTech,5,416.13,2026-02-26,False,,healthy
+ACC-00430,Growth,Media,7,1199.97,2026-02-06,False,,healthy
+ACC-00431,Growth,FinTech,6,394.35,2026-05-11,False,,slow_decay
+ACC-00432,Scale,Professional Services,7,1360.4,2025-11-06,False,,seasonal
+ACC-00433,Growth,Manufacturing,14,1636.56,2026-04-15,False,,healthy
+ACC-00434,Growth,Logistics,23,1880.23,2026-03-03,True,2026-06-23,slow_decay
+ACC-00435,Starter,Retail,1,106.06,2025-12-17,False,,recovered
+ACC-00436,Scale,Professional Services,40,4467.93,2026-02-22,True,2026-07-08,sharp_drop
+ACC-00437,Growth,EdTech,20,1172.54,2026-04-14,True,2026-07-15,slow_decay
+ACC-00438,Starter,Healthcare,1,68.36,2026-05-10,False,,slow_decay
+ACC-00439,Growth,Logistics,7,479.37,2025-12-08,False,,healthy
+ACC-00440,Scale,EdTech,3,527.1,2026-05-29,False,,recovered
+ACC-00441,Growth,Healthcare,5,528.67,2026-03-26,True,2026-07-07,slow_decay
+ACC-00442,Scale,Retail,2,256.31,2026-05-22,False,,healthy
+ACC-00443,Growth,Manufacturing,11,1207.56,2026-02-02,False,,healthy
+ACC-00444,Enterprise,Logistics,9,4020.86,2026-03-11,False,,healthy
+ACC-00445,Starter,EdTech,7,408.62,2025-12-15,False,,healthy
+ACC-00446,Enterprise,Professional Services,33,5903.98,2025-12-21,False,,seasonal
+ACC-00447,Starter,Manufacturing,2,185.93,2026-03-18,False,,healthy
+ACC-00448,Enterprise,Healthcare,23,5040.64,2026-05-26,False,,seasonal
+ACC-00449,Growth,Media,2,288.04,2025-11-22,False,,healthy
+ACC-00450,Enterprise,FinTech,7,2937.06,2026-01-18,True,2026-06-27,slow_decay
+ACC-00451,Growth,FinTech,17,2327.24,2025-11-23,False,,healthy
+ACC-00452,Starter,Media,1,36.33,2026-04-04,False,,seasonal
+ACC-00453,Growth,Healthcare,7,438.28,2026-05-03,False,,slow_decay
+ACC-00454,Growth,Professional Services,8,946.85,2025-12-09,True,2026-03-29,sharp_drop
+ACC-00455,Growth,FinTech,3,494.32,2026-01-13,True,2026-04-19,slow_decay
+ACC-00456,Growth,FinTech,4,669.02,2026-03-16,False,,healthy
+ACC-00457,Starter,Logistics,7,404.67,2026-04-05,True,2026-07-14,slow_decay
+ACC-00458,Scale,Healthcare,10,1788.61,2026-02-14,False,,healthy
+ACC-00459,Scale,Logistics,13,1256.0,2026-03-13,True,2026-06-26,slow_decay
+ACC-00460,Growth,EdTech,3,344.4,2026-05-16,False,,healthy
+ACC-00461,Starter,FinTech,5,355.83,2026-04-17,False,,recovered
+ACC-00462,Starter,Healthcare,3,279.59,2025-12-01,False,,seasonal
+ACC-00463,Starter,EdTech,8,596.02,2026-04-19,True,2026-07-23,slow_decay
+ACC-00464,Starter,Media,2,63.21,2025-12-03,False,,healthy
+ACC-00465,Starter,Manufacturing,4,476.46,2025-11-24,False,,healthy
+ACC-00466,Growth,FinTech,1,75.4,2026-05-26,False,,slow_decay
+ACC-00467,Enterprise,Logistics,26,12346.42,2026-01-20,False,,healthy
+ACC-00468,Starter,Healthcare,4,249.03,2026-02-10,True,2026-06-17,sharp_drop
+ACC-00469,Growth,Healthcare,21,3121.96,2025-11-20,False,,seasonal
+ACC-00470,Starter,Healthcare,4,181.46,2025-11-11,True,2026-04-11,slow_decay
+ACC-00471,Starter,Logistics,2,120.83,2026-03-16,False,,healthy
+ACC-00472,Enterprise,Healthcare,2,863.95,2026-01-27,False,,healthy
+ACC-00473,Growth,Logistics,7,1066.95,2026-01-17,True,2026-05-31,slow_decay
+ACC-00474,Starter,EdTech,2,131.0,2025-11-26,False,,recovered
+ACC-00475,Scale,Media,7,727.14,2025-11-07,True,2026-02-14,slow_decay
+ACC-00476,Scale,Logistics,14,2879.5,2026-01-30,False,,healthy
+ACC-00477,Starter,Professional Services,7,699.2,2026-03-20,False,,seasonal
+ACC-00478,Enterprise,EdTech,28,7339.59,2026-02-04,False,,seasonal
+ACC-00479,Growth,Media,2,223.4,2026-03-10,False,,healthy
+ACC-00480,Growth,Manufacturing,23,1835.52,2026-02-16,False,,healthy
+ACC-00481,Enterprise,Retail,64,11909.01,2026-03-06,False,,seasonal
+ACC-00482,Scale,Professional Services,9,2326.06,2026-01-06,False,,healthy
+ACC-00483,Growth,FinTech,2,246.85,2026-01-05,False,,healthy
+ACC-00484,Scale,FinTech,3,227.11,2026-01-07,True,2026-04-19,slow_decay
+ACC-00485,Starter,FinTech,1,32.99,2026-01-14,False,,healthy
+ACC-00486,Starter,Manufacturing,1,46.62,2026-05-09,False,,slow_decay
+ACC-00487,Growth,Media,17,1634.49,2025-12-09,True,2026-05-29,slow_decay
+ACC-00488,Starter,Healthcare,1,43.48,2026-05-13,False,,healthy
+ACC-00489,Enterprise,Healthcare,19,8778.77,2026-02-22,True,2026-07-11,slow_decay
+ACC-00490,Starter,Logistics,4,413.37,2026-05-19,False,,healthy
+ACC-00491,Growth,FinTech,1,114.8,2026-02-05,False,,recovered
+ACC-00492,Starter,Media,4,332.35,2025-12-18,False,,healthy
+ACC-00493,Scale,Retail,10,1072.04,2026-01-13,False,,healthy
+ACC-00494,Growth,Manufacturing,8,1158.97,2025-11-10,False,,recovered
+ACC-00495,Growth,FinTech,4,302.44,2025-12-21,False,,healthy
+ACC-00496,Growth,Retail,11,1245.85,2026-01-02,False,,healthy
+ACC-00497,Growth,Healthcare,2,279.62,2026-04-23,False,,seasonal
+ACC-00498,Growth,Manufacturing,10,1272.56,2026-04-01,False,,healthy
+ACC-00499,Scale,Manufacturing,13,2281.4,2026-05-17,False,,recovered
+ACC-00500,Starter,Media,8,480.94,2025-12-31,True,2026-04-27,slow_decay
+ACC-00501,Enterprise,Media,24,6843.1,2026-05-17,False,,recovered
+ACC-00502,Scale,FinTech,15,3602.65,2026-02-24,True,2026-06-06,slow_decay
+ACC-00503,Growth,Logistics,2,169.67,2026-02-04,True,2026-07-08,slow_decay
+ACC-00504,Scale,Manufacturing,8,1218.17,2025-12-10,True,2026-04-10,sharp_drop
+ACC-00505,Growth,Media,29,1646.47,2025-11-26,False,,healthy
+ACC-00506,Starter,Professional Services,1,71.86,2026-02-04,False,,healthy
+ACC-00507,Growth,FinTech,6,863.22,2026-01-02,False,,healthy
+ACC-00508,Starter,EdTech,3,324.0,2026-02-02,True,2026-05-30,sharp_drop
+ACC-00509,Growth,Healthcare,10,610.35,2026-02-08,False,,healthy
+ACC-00510,Growth,Media,13,2156.66,2026-03-28,False,,healthy
+ACC-00511,Scale,Healthcare,6,1323.59,2026-04-25,False,,healthy
+ACC-00512,Growth,Manufacturing,1,59.51,2026-03-23,False,,seasonal
+ACC-00513,Starter,Manufacturing,3,257.2,2025-11-04,False,,healthy
+ACC-00514,Growth,Professional Services,1,107.43,2025-11-28,False,,healthy
+ACC-00515,Starter,Retail,2,109.38,2025-12-07,False,,healthy
+ACC-00516,Growth,Media,5,880.64,2026-05-09,False,,slow_decay
+ACC-00517,Growth,Logistics,6,813.19,2025-12-17,False,,healthy
+ACC-00518,Enterprise,Retail,4,646.44,2026-05-18,False,,healthy
+ACC-00519,Starter,Healthcare,9,965.73,2026-04-13,False,,seasonal
+ACC-00520,Scale,Media,6,1424.31,2025-12-16,True,2026-04-10,slow_decay
+ACC-00521,Scale,Retail,5,1164.43,2026-05-20,False,,recovered
+ACC-00522,Scale,Retail,13,1827.53,2026-02-11,False,,healthy
+ACC-00523,Growth,Manufacturing,3,394.88,2025-12-02,False,,recovered
+ACC-00524,Enterprise,Retail,67,30351.58,2026-01-25,True,2026-04-28,slow_decay
+ACC-00525,Scale,Professional Services,12,2027.03,2025-11-14,True,2026-04-14,sharp_drop
+ACC-00526,Growth,Logistics,7,659.37,2025-11-01,True,2026-04-11,sharp_drop
+ACC-00527,Starter,Manufacturing,3,245.79,2025-11-23,False,,healthy
+ACC-00528,Growth,EdTech,6,724.91,2026-02-06,False,,healthy
+ACC-00529,Starter,Media,2,204.52,2026-03-16,True,2026-06-19,sharp_drop
+ACC-00530,Enterprise,Retail,12,3379.66,2026-05-15,False,,seasonal
+ACC-00531,Starter,Professional Services,1,51.4,2025-11-14,True,2026-05-10,sharp_drop
+ACC-00532,Starter,Professional Services,3,151.87,2026-01-29,False,,healthy
+ACC-00533,Starter,Manufacturing,12,489.79,2026-04-09,False,,seasonal
+ACC-00534,Starter,Professional Services,4,296.14,2026-01-21,False,,recovered
+ACC-00535,Growth,Manufacturing,12,2103.29,2025-12-30,False,,healthy
+ACC-00536,Enterprise,Manufacturing,19,6463.05,2026-01-09,False,,healthy
+ACC-00537,Scale,Healthcare,7,1288.46,2025-12-10,False,,seasonal
+ACC-00538,Starter,FinTech,9,900.07,2025-12-09,False,,healthy
+ACC-00539,Growth,Manufacturing,2,337.86,2025-11-11,False,,healthy
+ACC-00540,Enterprise,EdTech,6,1888.1,2026-05-15,False,,sharp_drop
+ACC-00541,Growth,Professional Services,6,579.5,2026-02-19,False,,seasonal
+ACC-00542,Growth,FinTech,4,499.95,2026-02-19,True,2026-07-01,slow_decay
+ACC-00543,Growth,Logistics,4,748.37,2025-11-04,False,,healthy
+ACC-00544,Starter,FinTech,3,181.43,2025-11-07,False,,healthy
+ACC-00545,Growth,EdTech,4,577.08,2026-02-11,False,,healthy
+ACC-00546,Growth,Logistics,57,8125.38,2026-04-29,False,,slow_decay
+ACC-00547,Starter,Media,1,79.47,2026-02-08,True,2026-06-02,slow_decay
+ACC-00548,Growth,EdTech,2,310.75,2026-03-25,False,,healthy
+ACC-00549,Starter,Logistics,4,465.62,2026-04-12,False,,healthy
+ACC-00550,Scale,Logistics,6,713.37,2026-04-07,False,,healthy
+ACC-00551,Growth,EdTech,6,436.28,2026-03-25,True,2026-07-11,slow_decay
+ACC-00552,Scale,Retail,3,304.19,2026-03-25,False,,seasonal
+ACC-00553,Starter,Retail,1,68.11,2026-02-22,False,,healthy
+ACC-00554,Starter,Logistics,5,196.33,2025-12-31,False,,seasonal
+ACC-00555,Starter,Healthcare,2,205.39,2026-03-15,False,,healthy
+ACC-00556,Growth,EdTech,10,1724.04,2026-01-08,False,,healthy
+ACC-00557,Growth,Manufacturing,16,1980.21,2026-05-13,False,,healthy
+ACC-00558,Growth,Logistics,2,101.64,2026-02-10,False,,seasonal
+ACC-00559,Starter,Logistics,4,358.28,2026-02-09,True,2026-07-12,slow_decay
+ACC-00560,Growth,Retail,8,635.07,2026-02-03,False,,recovered
+ACC-00561,Growth,FinTech,11,1731.28,2026-01-17,False,,seasonal
+ACC-00562,Starter,Logistics,3,246.72,2026-03-29,False,,healthy
+ACC-00563,Starter,EdTech,5,445.26,2026-03-23,False,,seasonal
+ACC-00564,Starter,Logistics,6,440.98,2026-04-15,False,,healthy
+ACC-00565,Growth,Professional Services,10,1568.52,2025-12-08,False,,recovered
+ACC-00566,Starter,EdTech,3,182.61,2026-05-28,False,,healthy
+ACC-00567,Starter,Manufacturing,2,87.83,2026-01-18,False,,recovered
+ACC-00568,Starter,FinTech,2,136.07,2026-05-26,False,,healthy
+ACC-00569,Starter,Healthcare,4,131.8,2025-12-24,False,,healthy
+ACC-00570,Growth,Retail,10,591.16,2025-12-15,False,,seasonal
+ACC-00571,Starter,Professional Services,4,235.36,2026-03-25,True,2026-07-08,sharp_drop
+ACC-00572,Scale,EdTech,13,1504.46,2025-12-05,True,2026-03-22,slow_decay
+ACC-00573,Scale,EdTech,6,1537.13,2025-11-14,False,,healthy
+ACC-00574,Growth,Logistics,2,299.85,2026-04-08,True,2026-07-10,slow_decay
+ACC-00575,Growth,EdTech,7,1005.55,2026-05-04,False,,healthy
+ACC-00576,Scale,Professional Services,15,1224.15,2026-04-26,False,,sharp_drop
+ACC-00577,Growth,Healthcare,10,719.03,2026-02-15,False,,healthy
+ACC-00578,Scale,Professional Services,3,532.45,2026-04-03,False,,healthy
+ACC-00579,Growth,Manufacturing,1,84.55,2026-05-17,False,,recovered
+ACC-00580,Starter,Professional Services,3,118.68,2025-12-03,False,,healthy
+ACC-00581,Growth,EdTech,9,677.69,2026-03-14,False,,healthy
+ACC-00582,Growth,Manufacturing,4,350.41,2025-11-14,True,2026-04-19,slow_decay
+ACC-00583,Starter,EdTech,2,235.66,2025-12-31,False,,healthy
+ACC-00584,Scale,Manufacturing,23,6285.13,2026-02-24,False,,seasonal
+ACC-00585,Starter,Professional Services,2,216.53,2025-12-11,False,,seasonal
+ACC-00586,Starter,Professional Services,1,87.87,2026-05-25,False,,healthy
+ACC-00587,Growth,Logistics,2,326.28,2026-04-28,False,,healthy
+ACC-00588,Scale,Healthcare,7,1577.17,2025-11-04,False,,recovered
+ACC-00589,Scale,Manufacturing,21,4206.14,2026-03-22,True,2026-07-23,slow_decay
+ACC-00590,Scale,Professional Services,7,1071.07,2025-12-08,False,,recovered
+ACC-00591,Scale,EdTech,12,2942.2,2025-12-02,False,,healthy
+ACC-00592,Starter,FinTech,2,221.07,2025-12-06,False,,recovered
+ACC-00593,Growth,Logistics,4,583.33,2026-02-22,False,,seasonal
+ACC-00594,Starter,Professional Services,3,357.08,2025-11-27,False,,healthy
+ACC-00595,Scale,Media,5,1376.58,2026-04-13,False,,healthy
+ACC-00596,Scale,EdTech,8,1024.24,2025-12-13,False,,healthy
+ACC-00597,Scale,Logistics,2,348.89,2026-04-23,False,,healthy
+ACC-00598,Enterprise,EdTech,12,3217.32,2026-02-24,False,,healthy
+ACC-00599,Enterprise,Retail,24,10461.68,2026-01-19,False,,healthy
+ACC-00600,Starter,Healthcare,5,160.41,2025-12-29,False,,seasonal
+ACC-00601,Starter,Logistics,6,652.67,2026-01-26,True,2026-07-01,sharp_drop
+ACC-00602,Starter,FinTech,2,79.73,2025-11-04,False,,seasonal
+ACC-00603,Growth,Logistics,13,2457.43,2026-04-03,True,2026-07-03,slow_decay
+ACC-00604,Scale,Professional Services,10,1240.57,2026-05-23,False,,healthy
+ACC-00605,Growth,Logistics,5,847.23,2025-11-20,False,,seasonal
+ACC-00606,Growth,Manufacturing,9,532.75,2025-12-11,False,,seasonal
+ACC-00607,Growth,FinTech,26,2025.1,2026-03-24,False,,seasonal
+ACC-00608,Starter,Manufacturing,1,80.85,2025-12-13,False,,recovered
+ACC-00609,Scale,FinTech,3,462.13,2025-11-05,False,,healthy
+ACC-00610,Enterprise,Professional Services,22,2890.27,2025-11-23,False,,healthy
+ACC-00611,Growth,Logistics,4,527.57,2025-11-03,False,,healthy
+ACC-00612,Growth,Manufacturing,11,2096.58,2026-02-16,True,2026-06-04,slow_decay
+ACC-00613,Growth,EdTech,1,76.78,2025-12-08,False,,healthy
+ACC-00614,Starter,Professional Services,2,156.5,2026-02-04,False,,recovered
+ACC-00615,Scale,FinTech,6,1134.75,2026-05-26,False,,slow_decay
+ACC-00616,Scale,Media,10,2221.28,2026-01-16,True,2026-05-27,sharp_drop
+ACC-00617,Enterprise,Retail,70,16379.3,2025-12-07,True,2026-04-14,slow_decay
+ACC-00618,Scale,Healthcare,10,1177.53,2026-04-26,False,,sharp_drop
+ACC-00619,Growth,Manufacturing,7,667.1,2025-12-12,False,,seasonal
+ACC-00620,Enterprise,Healthcare,14,2838.84,2026-02-15,True,2026-06-06,sharp_drop
+ACC-00621,Starter,FinTech,12,1072.99,2026-03-30,False,,healthy
+ACC-00622,Scale,EdTech,9,2444.85,2025-11-01,False,,seasonal
+ACC-00623,Scale,Manufacturing,13,3314.44,2026-01-14,True,2026-05-29,sharp_drop
+ACC-00624,Scale,Healthcare,6,1091.27,2025-11-16,True,2026-07-04,sharp_drop
+ACC-00625,Starter,Logistics,2,92.89,2026-03-08,False,,seasonal
+ACC-00626,Growth,Media,12,1512.94,2025-12-07,False,,healthy
+ACC-00627,Scale,FinTech,4,597.07,2025-11-16,False,,healthy
+ACC-00628,Growth,FinTech,17,1497.87,2026-05-09,False,,seasonal
+ACC-00629,Growth,Logistics,2,203.86,2026-05-13,False,,seasonal
+ACC-00630,Starter,EdTech,10,676.46,2026-04-03,False,,healthy
+ACC-00631,Starter,EdTech,3,142.99,2026-05-12,False,,seasonal
+ACC-00632,Scale,Media,6,960.26,2025-12-25,False,,healthy
+ACC-00633,Starter,Media,9,798.01,2026-05-03,False,,healthy
+ACC-00634,Starter,Logistics,1,116.9,2026-04-26,False,,slow_decay
+ACC-00635,Starter,Manufacturing,4,125.85,2026-03-21,True,2026-07-05,sharp_drop
+ACC-00636,Starter,Retail,36,3028.04,2026-02-24,False,,healthy
+ACC-00637,Scale,Media,17,2801.17,2026-04-06,False,,healthy
+ACC-00638,Scale,Manufacturing,4,794.58,2025-12-23,False,,healthy
+ACC-00639,Growth,Logistics,20,3703.45,2025-11-29,True,2026-07-06,sharp_drop
+ACC-00640,Starter,FinTech,2,135.01,2026-05-28,False,,healthy
+ACC-00641,Growth,Professional Services,8,621.62,2026-01-17,False,,healthy
+ACC-00642,Starter,EdTech,9,1045.62,2026-04-21,False,,seasonal
+ACC-00643,Growth,Professional Services,3,448.48,2026-04-19,False,,recovered
+ACC-00644,Starter,Professional Services,7,720.71,2026-01-11,False,,healthy
+ACC-00645,Starter,Healthcare,6,512.66,2025-12-22,False,,healthy
+ACC-00646,Growth,Manufacturing,1,74.9,2026-03-09,False,,seasonal
+ACC-00647,Growth,Manufacturing,17,2395.07,2026-01-16,True,2026-06-21,sharp_drop
+ACC-00648,Growth,Healthcare,3,268.71,2026-05-13,False,,healthy
+ACC-00649,Growth,Professional Services,3,413.8,2025-11-03,False,,healthy
+ACC-00650,Growth,Healthcare,7,699.84,2025-11-22,False,,healthy
+ACC-00651,Growth,Manufacturing,6,359.86,2026-01-14,False,,healthy
+ACC-00652,Growth,Media,7,384.08,2026-04-14,False,,healthy
+ACC-00653,Starter,FinTech,4,137.23,2025-12-26,False,,seasonal
+ACC-00654,Enterprise,EdTech,21,7808.06,2026-02-27,True,2026-07-12,slow_decay
+ACC-00655,Growth,Media,8,718.47,2026-04-26,False,,healthy
+ACC-00656,Starter,FinTech,1,68.88,2026-03-09,False,,healthy
+ACC-00657,Scale,Healthcare,20,2613.42,2025-12-08,False,,healthy
+ACC-00658,Scale,Professional Services,14,1336.35,2026-04-01,False,,recovered
+ACC-00659,Starter,Professional Services,18,1845.08,2026-05-15,False,,slow_decay
+ACC-00660,Starter,Healthcare,3,166.85,2025-12-06,False,,healthy
+ACC-00661,Growth,Media,2,100.1,2026-01-03,False,,healthy
+ACC-00662,Starter,Healthcare,2,76.75,2025-12-01,True,2026-04-25,slow_decay
+ACC-00663,Growth,Professional Services,3,431.24,2025-11-20,False,,healthy
+ACC-00664,Starter,FinTech,3,105.6,2026-01-02,False,,healthy
+ACC-00665,Growth,Professional Services,7,719.89,2025-12-04,False,,recovered
+ACC-00666,Starter,Manufacturing,6,355.7,2026-03-26,False,,healthy
+ACC-00667,Starter,Professional Services,2,132.97,2026-04-02,True,2026-07-10,sharp_drop
+ACC-00668,Growth,FinTech,1,134.72,2026-03-06,False,,healthy
+ACC-00669,Starter,FinTech,2,184.58,2025-12-19,False,,recovered
+ACC-00670,Growth,Logistics,3,224.61,2026-01-01,False,,seasonal
+ACC-00671,Growth,Manufacturing,2,134.79,2026-04-08,False,,seasonal
+ACC-00672,Growth,Retail,3,364.02,2025-12-17,False,,seasonal
+ACC-00673,Growth,Retail,7,828.98,2025-11-10,True,2026-07-10,sharp_drop
+ACC-00674,Growth,Professional Services,4,480.03,2025-11-21,False,,healthy
+ACC-00675,Growth,Manufacturing,1,158.82,2025-12-25,True,2026-07-15,slow_decay
+ACC-00676,Starter,Media,2,183.94,2025-12-14,False,,seasonal
+ACC-00677,Starter,FinTech,2,226.88,2026-01-21,False,,healthy
+ACC-00678,Starter,Logistics,2,198.91,2025-11-01,False,,recovered
+ACC-00679,Scale,EdTech,4,412.87,2026-05-02,False,,healthy
+ACC-00680,Starter,Manufacturing,1,116.34,2026-01-14,False,,healthy
+ACC-00681,Growth,FinTech,2,302.45,2026-05-08,False,,seasonal
+ACC-00682,Starter,EdTech,7,716.17,2026-02-23,False,,healthy
+ACC-00683,Growth,Logistics,14,2568.18,2026-03-11,False,,seasonal
+ACC-00684,Scale,Logistics,7,909.68,2026-05-18,False,,slow_decay
+ACC-00685,Starter,Manufacturing,1,105.04,2025-11-01,False,,seasonal
+ACC-00686,Starter,Manufacturing,4,375.53,2026-04-12,False,,healthy
+ACC-00687,Starter,Media,1,81.91,2026-05-07,False,,healthy
+ACC-00688,Scale,Healthcare,15,3234.87,2026-01-13,False,,healthy
+ACC-00689,Enterprise,FinTech,9,4136.74,2026-05-02,False,,sharp_drop
+ACC-00690,Starter,Manufacturing,1,78.48,2026-03-11,False,,healthy
+ACC-00691,Growth,EdTech,3,379.87,2026-04-06,False,,seasonal
+ACC-00692,Scale,Manufacturing,15,2683.98,2026-04-20,False,,healthy
+ACC-00693,Growth,Retail,24,2941.77,2026-05-22,False,,slow_decay
+ACC-00694,Scale,Media,6,1191.78,2026-04-10,False,,healthy
+ACC-00695,Starter,Media,4,444.92,2025-11-19,False,,healthy
+ACC-00696,Starter,FinTech,3,90.01,2026-05-04,False,,healthy
+ACC-00697,Scale,Media,7,1927.61,2026-01-04,False,,healthy
+ACC-00698,Starter,Retail,1,37.36,2026-03-23,True,2026-07-08,slow_decay
+ACC-00699,Growth,Healthcare,2,374.87,2026-02-23,False,,seasonal
+ACC-00700,Starter,Healthcare,5,416.55,2025-12-31,False,,healthy
+ACC-00701,Starter,Retail,1,74.1,2026-04-09,False,,recovered
+ACC-00702,Scale,Manufacturing,29,3556.92,2025-11-27,True,2026-07-23,sharp_drop
+ACC-00703,Growth,Logistics,12,1561.86,2026-02-03,False,,recovered
+ACC-00704,Growth,EdTech,9,1474.0,2025-12-24,False,,seasonal
+ACC-00705,Enterprise,EdTech,18,6009.64,2026-04-02,False,,recovered
+ACC-00706,Growth,Manufacturing,5,651.08,2025-11-03,False,,healthy
+ACC-00707,Starter,Media,2,156.96,2026-03-03,True,2026-06-01,slow_decay
+ACC-00708,Starter,Logistics,3,109.71,2026-05-14,False,,slow_decay
+ACC-00709,Scale,EdTech,9,1274.75,2026-02-20,False,,healthy
+ACC-00710,Growth,FinTech,2,190.67,2026-05-11,False,,slow_decay
+ACC-00711,Starter,EdTech,4,301.79,2026-01-02,True,2026-04-13,slow_decay
+ACC-00712,Enterprise,Retail,12,4969.16,2026-03-24,False,,seasonal
+ACC-00713,Growth,FinTech,3,275.55,2026-05-20,False,,healthy
+ACC-00714,Scale,Professional Services,4,1050.2,2026-04-27,False,,slow_decay
+ACC-00715,Starter,Manufacturing,4,475.01,2026-05-14,False,,slow_decay
+ACC-00716,Growth,Professional Services,10,1877.37,2026-03-25,False,,healthy
+ACC-00717,Starter,Logistics,2,200.11,2026-05-24,False,,healthy
+ACC-00718,Scale,EdTech,9,1046.36,2025-11-15,True,2026-07-18,slow_decay
+ACC-00719,Growth,EdTech,7,693.28,2025-12-06,False,,recovered
+ACC-00720,Scale,Healthcare,16,4225.73,2025-12-27,False,,healthy
+ACC-00721,Scale,Professional Services,7,815.75,2025-11-17,False,,healthy
+ACC-00722,Starter,Retail,7,215.16,2026-04-02,False,,healthy
+ACC-00723,Growth,Healthcare,3,465.68,2026-03-22,False,,healthy
+ACC-00724,Growth,EdTech,1,74.82,2025-12-28,True,2026-06-01,slow_decay
+ACC-00725,Growth,Professional Services,3,566.55,2026-02-16,True,2026-06-27,sharp_drop
+ACC-00726,Starter,EdTech,3,202.06,2026-02-12,True,2026-05-22,slow_decay
+ACC-00727,Growth,Retail,4,248.4,2025-11-16,True,2026-05-19,slow_decay
+ACC-00728,Starter,Logistics,2,139.65,2026-05-13,False,,recovered
+ACC-00729,Starter,Professional Services,10,1025.99,2026-04-06,False,,seasonal
+ACC-00730,Starter,FinTech,5,227.62,2026-05-16,False,,healthy
+ACC-00731,Growth,Healthcare,7,1249.91,2026-03-08,False,,healthy
+ACC-00732,Growth,FinTech,3,561.44,2025-12-31,True,2026-04-20,slow_decay
+ACC-00733,Starter,Retail,3,223.35,2026-02-28,True,2026-07-02,slow_decay
+ACC-00734,Starter,Logistics,7,571.34,2026-04-30,False,,recovered
+ACC-00735,Scale,Manufacturing,3,420.91,2025-11-18,False,,seasonal
+ACC-00736,Starter,EdTech,2,170.34,2026-01-30,False,,seasonal
+ACC-00737,Growth,EdTech,9,1240.22,2026-01-13,False,,healthy
+ACC-00738,Growth,Logistics,20,2046.31,2026-01-18,True,2026-05-02,slow_decay
+ACC-00739,Starter,Retail,4,301.16,2025-11-23,False,,healthy
+ACC-00740,Starter,FinTech,1,41.94,2025-12-29,False,,healthy
+ACC-00741,Growth,Media,6,671.97,2026-04-05,False,,healthy
+ACC-00742,Growth,Healthcare,8,704.2,2026-02-21,True,2026-06-20,slow_decay
+ACC-00743,Growth,EdTech,2,273.38,2026-03-10,False,,healthy
+ACC-00744,Starter,EdTech,5,241.12,2026-05-10,False,,recovered
+ACC-00745,Scale,Manufacturing,16,3510.13,2026-05-26,False,,slow_decay
+ACC-00746,Growth,Retail,4,715.93,2026-05-19,False,,healthy
+ACC-00747,Starter,Manufacturing,1,55.77,2025-12-09,False,,healthy
+ACC-00748,Growth,Healthcare,5,926.4,2026-02-10,True,2026-05-23,slow_decay
+ACC-00749,Enterprise,Professional Services,20,2972.37,2025-12-18,False,,healthy
+ACC-00750,Growth,Healthcare,1,54.25,2026-04-29,False,,healthy
+ACC-00751,Scale,FinTech,5,865.25,2026-01-25,False,,healthy
+ACC-00752,Scale,Healthcare,6,768.6,2025-12-31,True,2026-06-18,slow_decay
+ACC-00753,Starter,FinTech,3,231.05,2025-11-23,False,,seasonal
+ACC-00754,Starter,Retail,2,178.47,2026-05-14,False,,seasonal
+ACC-00755,Starter,Retail,3,296.73,2026-02-23,False,,healthy
+ACC-00756,Growth,Manufacturing,12,1302.57,2025-12-14,False,,healthy
+ACC-00757,Growth,Manufacturing,2,369.57,2026-03-28,True,2026-07-23,slow_decay
+ACC-00758,Starter,Retail,7,329.16,2025-11-27,True,2026-02-26,sharp_drop
+ACC-00759,Growth,Media,13,1369.37,2026-05-06,False,,healthy
+ACC-00760,Starter,Media,4,326.27,2026-01-01,True,2026-06-16,slow_decay
+ACC-00761,Starter,EdTech,1,75.35,2026-02-09,True,2026-07-14,slow_decay
+ACC-00762,Growth,EdTech,2,181.3,2026-02-07,False,,recovered
+ACC-00763,Growth,FinTech,8,1056.07,2026-02-12,True,2026-06-09,sharp_drop
+ACC-00764,Growth,Professional Services,14,1158.57,2026-01-29,False,,healthy
+ACC-00765,Scale,FinTech,4,576.14,2026-03-19,False,,healthy
+ACC-00766,Growth,Media,4,271.48,2026-03-11,False,,healthy
+ACC-00767,Starter,Logistics,5,160.35,2025-12-18,False,,healthy
+ACC-00768,Enterprise,Media,7,1057.19,2026-02-20,False,,healthy
+ACC-00769,Growth,Retail,9,1121.32,2025-12-24,True,2026-06-10,slow_decay
+ACC-00770,Starter,Logistics,1,44.04,2025-12-23,True,2026-06-19,slow_decay
+ACC-00771,Starter,Healthcare,10,862.01,2026-01-02,False,,healthy
+ACC-00772,Starter,Healthcare,4,436.33,2026-04-15,False,,seasonal
+ACC-00773,Scale,Professional Services,31,6753.89,2026-05-13,False,,slow_decay
+ACC-00774,Starter,Logistics,5,492.55,2026-02-18,True,2026-05-19,sharp_drop
+ACC-00775,Starter,Manufacturing,8,495.55,2025-12-18,True,2026-07-05,slow_decay
+ACC-00776,Starter,FinTech,2,216.75,2025-12-03,False,,seasonal
+ACC-00777,Growth,FinTech,11,1730.54,2026-01-24,False,,healthy
+ACC-00778,Enterprise,Manufacturing,11,3121.41,2026-01-26,True,2026-06-04,sharp_drop
+ACC-00779,Scale,Media,5,960.99,2026-02-12,True,2026-06-07,sharp_drop
+ACC-00780,Starter,Retail,10,1159.94,2025-12-11,True,2026-06-15,slow_decay
+ACC-00781,Scale,FinTech,6,731.01,2026-02-22,True,2026-07-03,sharp_drop
+ACC-00782,Scale,Manufacturing,13,2540.56,2026-02-20,False,,healthy
+ACC-00783,Growth,Logistics,4,684.16,2025-11-12,True,2026-02-19,sharp_drop
+ACC-00784,Growth,Logistics,2,132.44,2026-03-12,False,,healthy
+ACC-00785,Growth,Media,7,896.23,2026-03-27,False,,seasonal
+ACC-00786,Scale,EdTech,9,2443.38,2026-02-04,True,2026-05-27,slow_decay
+ACC-00787,Enterprise,Media,12,4763.75,2026-03-19,False,,seasonal
+ACC-00788,Starter,Manufacturing,5,542.67,2026-03-07,False,,healthy
+ACC-00789,Starter,Professional Services,9,630.9,2026-02-15,False,,seasonal
+ACC-00790,Scale,Retail,5,964.65,2026-02-22,False,,recovered
+ACC-00791,Enterprise,FinTech,79,24733.52,2026-04-30,False,,recovered
+ACC-00792,Scale,EdTech,32,6515.22,2025-12-28,False,,seasonal
+ACC-00793,Starter,Media,2,117.87,2026-02-15,True,2026-06-22,slow_decay
+ACC-00794,Scale,Professional Services,6,905.7,2026-04-13,False,,healthy
+ACC-00795,Starter,Retail,2,145.47,2026-01-08,True,2026-06-16,slow_decay
+ACC-00796,Scale,Manufacturing,4,773.18,2026-01-02,True,2026-05-12,slow_decay
+ACC-00797,Starter,Healthcare,1,48.91,2025-11-04,False,,seasonal
+ACC-00798,Enterprise,FinTech,18,6332.21,2026-01-20,True,2026-05-08,slow_decay
+ACC-00799,Enterprise,Professional Services,24,9761.26,2026-01-18,False,,healthy
+ACC-00800,Growth,FinTech,15,892.42,2026-02-20,True,2026-07-20,slow_decay
+ACC-00801,Scale,Media,9,808.07,2026-02-21,False,,seasonal
+ACC-00802,Growth,Healthcare,6,695.21,2025-12-30,False,,recovered
+ACC-00803,Scale,Logistics,4,610.59,2026-02-15,False,,recovered
+ACC-00804,Scale,Manufacturing,9,2344.42,2026-01-31,False,,seasonal
+ACC-00805,Starter,Manufacturing,1,69.62,2026-02-27,False,,seasonal
+ACC-00806,Growth,Professional Services,3,460.27,2026-04-24,True,2026-07-23,sharp_drop
+ACC-00807,Starter,Professional Services,14,857.51,2026-03-30,False,,seasonal
+ACC-00808,Starter,FinTech,1,98.89,2026-03-15,False,,recovered
+ACC-00809,Enterprise,Logistics,1,310.51,2025-11-16,True,2026-05-21,slow_decay
+ACC-00810,Scale,EdTech,22,3295.26,2026-03-30,True,2026-07-18,sharp_drop
+ACC-00811,Growth,FinTech,3,424.3,2026-03-07,False,,healthy
+ACC-00812,Starter,Professional Services,5,220.81,2026-04-14,False,,seasonal
+ACC-00813,Starter,FinTech,5,175.27,2026-05-01,False,,healthy
+ACC-00814,Enterprise,Media,19,2822.29,2026-01-26,False,,healthy
+ACC-00815,Scale,Professional Services,2,181.67,2025-12-19,False,,healthy
+ACC-00816,Growth,Retail,7,593.87,2026-02-03,True,2026-07-14,slow_decay
+ACC-00817,Enterprise,Healthcare,3,495.36,2026-03-30,False,,seasonal
+ACC-00818,Growth,FinTech,1,93.88,2026-01-09,False,,healthy
+ACC-00819,Starter,Media,3,145.52,2026-03-31,True,2026-06-30,sharp_drop
+ACC-00820,Scale,Logistics,9,803.68,2025-11-06,True,2026-02-23,slow_decay
+ACC-00821,Scale,Retail,3,660.12,2025-11-27,True,2026-04-19,slow_decay
+ACC-00822,Scale,Retail,7,1381.66,2026-02-09,False,,healthy
+ACC-00823,Starter,Manufacturing,2,177.96,2026-03-03,False,,healthy
+ACC-00824,Scale,FinTech,5,587.15,2026-04-22,False,,healthy
+ACC-00825,Scale,FinTech,37,8581.42,2026-03-30,False,,recovered
+ACC-00826,Growth,Healthcare,2,205.12,2026-03-08,True,2026-06-30,slow_decay
+ACC-00827,Enterprise,Media,4,1626.73,2026-03-09,False,,healthy
+ACC-00828,Starter,Professional Services,1,51.01,2025-11-17,False,,healthy
+ACC-00829,Scale,Retail,13,3669.19,2026-03-26,True,2026-07-04,sharp_drop
+ACC-00830,Growth,EdTech,1,53.3,2026-01-23,False,,healthy
+ACC-00831,Starter,FinTech,2,233.43,2026-02-13,False,,healthy
+ACC-00832,Growth,Healthcare,20,2941.92,2026-03-19,False,,seasonal
+ACC-00833,Scale,Professional Services,3,646.6,2026-04-02,False,,healthy
+ACC-00834,Starter,Healthcare,4,266.65,2026-05-23,False,,slow_decay
+ACC-00835,Enterprise,Retail,26,11410.35,2026-05-11,False,,slow_decay
+ACC-00836,Starter,EdTech,5,342.22,2026-02-09,False,,healthy
+ACC-00837,Growth,Healthcare,5,821.55,2026-04-21,False,,recovered
+ACC-00838,Starter,Manufacturing,3,235.58,2025-12-08,False,,healthy
+ACC-00839,Scale,Professional Services,5,1090.02,2026-03-30,False,,healthy
+ACC-00840,Enterprise,Professional Services,2,788.0,2025-12-05,False,,healthy
+ACC-00841,Growth,Logistics,15,1690.13,2026-04-09,False,,healthy
+ACC-00842,Scale,Manufacturing,4,998.97,2026-04-22,True,2026-07-23,slow_decay
+ACC-00843,Starter,Professional Services,3,225.46,2026-01-10,False,,seasonal
+ACC-00844,Growth,Retail,17,2735.85,2026-05-18,False,,slow_decay
+ACC-00845,Scale,Professional Services,3,863.18,2026-04-02,True,2026-07-22,slow_decay
+ACC-00846,Starter,Retail,12,996.11,2026-03-20,False,,healthy
+ACC-00847,Enterprise,Manufacturing,5,1272.25,2026-05-29,False,,sharp_drop
+ACC-00848,Starter,EdTech,3,252.03,2026-03-11,False,,healthy
+ACC-00849,Starter,EdTech,2,71.08,2026-04-07,False,,healthy
+ACC-00850,Growth,Logistics,1,64.55,2025-12-29,True,2026-06-10,sharp_drop
+ACC-00851,Starter,Logistics,1,71.89,2026-01-07,True,2026-07-16,sharp_drop
+ACC-00852,Growth,Manufacturing,7,1235.05,2025-12-16,True,2026-03-17,slow_decay
+ACC-00853,Scale,EdTech,23,3968.34,2025-12-24,False,,healthy
+ACC-00854,Scale,EdTech,6,1587.26,2025-12-22,False,,healthy
+ACC-00855,Starter,FinTech,2,70.07,2026-02-20,False,,healthy
+ACC-00856,Growth,Professional Services,6,541.48,2026-01-07,False,,recovered
+ACC-00857,Growth,FinTech,2,366.94,2025-11-27,False,,healthy
+ACC-00858,Growth,Manufacturing,7,887.76,2026-04-06,False,,healthy
+ACC-00859,Scale,Retail,9,1414.89,2026-05-11,False,,slow_decay
+ACC-00860,Growth,Media,2,199.24,2025-12-03,False,,healthy
+ACC-00861,Growth,FinTech,21,1436.2,2026-01-26,True,2026-07-22,slow_decay
+ACC-00862,Starter,FinTech,1,73.75,2026-01-12,False,,seasonal
+ACC-00863,Growth,Professional Services,21,3912.47,2026-05-06,False,,sharp_drop
+ACC-00864,Growth,EdTech,2,214.96,2026-02-07,False,,healthy
+ACC-00865,Scale,Healthcare,9,1234.29,2025-11-06,False,,healthy
+ACC-00866,Starter,Professional Services,1,77.02,2026-05-17,False,,recovered
+ACC-00867,Scale,Professional Services,9,1618.57,2026-04-19,False,,recovered
+ACC-00868,Growth,Professional Services,6,716.69,2026-02-10,False,,seasonal
+ACC-00869,Growth,Professional Services,28,2894.34,2026-04-26,False,,healthy
+ACC-00870,Growth,EdTech,2,162.87,2025-11-07,True,2026-05-07,slow_decay
+ACC-00871,Growth,FinTech,1,123.88,2025-11-26,True,2026-05-12,slow_decay
+ACC-00872,Growth,Professional Services,2,354.25,2025-11-21,True,2026-06-04,slow_decay
+ACC-00873,Growth,Professional Services,16,2227.23,2026-05-06,False,,healthy
+ACC-00874,Growth,Professional Services,4,757.88,2026-02-27,False,,healthy
+ACC-00875,Growth,Healthcare,8,908.33,2025-11-25,True,2026-07-16,slow_decay
+ACC-00876,Scale,Retail,5,492.71,2025-12-03,False,,healthy
+ACC-00877,Growth,EdTech,6,780.3,2025-11-25,True,2026-03-18,sharp_drop
+ACC-00878,Starter,Retail,2,166.0,2026-04-25,False,,slow_decay
+ACC-00879,Starter,Manufacturing,5,216.43,2026-02-27,True,2026-06-24,slow_decay
+ACC-00880,Scale,Manufacturing,7,716.15,2025-12-26,False,,healthy
+ACC-00881,Starter,Media,4,343.93,2026-05-09,False,,healthy
+ACC-00882,Growth,Professional Services,21,1393.45,2026-01-20,False,,healthy
+ACC-00883,Starter,Retail,4,332.91,2025-12-21,False,,healthy
+ACC-00884,Growth,EdTech,4,746.06,2025-12-23,True,2026-04-04,slow_decay
+ACC-00885,Enterprise,Retail,12,2857.29,2026-01-21,False,,seasonal
+ACC-00886,Growth,Retail,2,223.37,2026-03-08,False,,recovered
+ACC-00887,Growth,Healthcare,3,408.77,2026-02-13,False,,seasonal
+ACC-00888,Enterprise,Retail,14,5309.53,2025-11-18,False,,healthy
+ACC-00889,Growth,Healthcare,1,153.94,2026-01-17,False,,seasonal
+ACC-00890,Scale,EdTech,13,1675.47,2026-03-23,False,,healthy
+ACC-00891,Scale,FinTech,11,1487.18,2026-02-05,False,,healthy
+ACC-00892,Starter,Media,2,172.17,2026-03-04,False,,healthy
+ACC-00893,Starter,Healthcare,8,243.88,2026-05-09,False,,recovered
+ACC-00894,Scale,EdTech,5,575.99,2026-04-01,False,,healthy
+ACC-00895,Enterprise,Professional Services,7,2848.46,2025-11-08,False,,recovered
+ACC-00896,Starter,Logistics,4,227.07,2025-12-23,False,,healthy
+ACC-00897,Starter,FinTech,3,358.87,2025-12-15,False,,healthy
+ACC-00898,Scale,Logistics,4,832.08,2025-12-20,True,2026-07-19,sharp_drop
+ACC-00899,Scale,FinTech,19,5149.13,2026-03-01,True,2026-06-27,slow_decay
+ACC-00900,Starter,Professional Services,3,150.84,2025-11-29,False,,healthy
+ACC-00901,Scale,Professional Services,11,1628.48,2026-01-04,False,,healthy
+ACC-00902,Growth,Logistics,16,2034.95,2026-05-10,False,,healthy
+ACC-00903,Growth,Media,9,1481.46,2025-11-05,True,2026-03-11,slow_decay
+ACC-00904,Starter,Healthcare,1,99.62,2026-01-06,False,,healthy
+ACC-00905,Starter,Logistics,4,460.39,2026-04-06,False,,seasonal
+ACC-00906,Starter,EdTech,2,132.64,2026-03-29,True,2026-07-14,slow_decay
+ACC-00907,Enterprise,Manufacturing,10,3885.02,2026-04-03,False,,seasonal
+ACC-00908,Starter,FinTech,5,393.44,2025-11-14,True,2026-04-30,sharp_drop
+ACC-00909,Starter,Healthcare,3,178.11,2026-01-30,False,,healthy
+ACC-00910,Growth,Logistics,8,1271.04,2025-12-20,False,,healthy
+ACC-00911,Growth,Manufacturing,16,1958.08,2026-01-16,False,,healthy
+ACC-00912,Growth,Professional Services,1,82.74,2025-12-22,True,2026-03-26,slow_decay
+ACC-00913,Scale,Retail,5,1215.32,2026-05-24,False,,slow_decay
+ACC-00914,Starter,FinTech,2,188.08,2025-12-20,False,,seasonal
+ACC-00915,Starter,Logistics,5,498.85,2025-11-02,False,,healthy
+ACC-00916,Starter,Retail,1,68.65,2026-01-13,False,,healthy
+ACC-00917,Enterprise,EdTech,34,10916.16,2026-02-08,False,,healthy
+ACC-00918,Growth,Manufacturing,3,224.75,2026-03-13,False,,healthy
+ACC-00919,Starter,EdTech,6,566.1,2026-02-05,True,2026-07-18,slow_decay
+ACC-00920,Growth,Media,1,74.42,2025-11-27,False,,healthy
+ACC-00921,Growth,EdTech,6,830.96,2025-12-30,False,,healthy
+ACC-00922,Starter,Manufacturing,14,738.58,2026-04-16,False,,healthy
+ACC-00923,Scale,Professional Services,14,2642.15,2026-05-07,False,,sharp_drop
+ACC-00924,Starter,EdTech,2,187.54,2026-03-19,True,2026-07-06,slow_decay
+ACC-00925,Growth,Media,5,460.91,2025-11-09,False,,recovered
+ACC-00926,Enterprise,Media,3,515.87,2025-12-30,True,2026-05-18,slow_decay
+ACC-00927,Growth,Professional Services,4,565.59,2025-11-02,True,2026-05-02,sharp_drop
+ACC-00928,Starter,Media,2,229.9,2026-04-12,False,,healthy
+ACC-00929,Growth,Media,4,350.66,2025-11-21,True,2026-05-20,sharp_drop
+ACC-00930,Enterprise,Media,18,8172.4,2026-05-02,False,,seasonal
+ACC-00931,Scale,Logistics,1,199.07,2026-02-14,False,,healthy
+ACC-00932,Growth,Media,7,1270.57,2026-01-31,False,,recovered
+ACC-00933,Enterprise,EdTech,12,2659.07,2026-01-05,False,,healthy
+ACC-00934,Growth,Healthcare,11,1871.24,2026-05-10,False,,healthy
+ACC-00935,Starter,FinTech,2,177.46,2026-03-27,False,,seasonal
+ACC-00936,Scale,Retail,13,2974.04,2026-01-05,False,,healthy
+ACC-00937,Starter,Healthcare,3,333.79,2025-12-27,False,,seasonal
+ACC-00938,Growth,FinTech,2,134.44,2026-02-04,False,,seasonal
+ACC-00939,Starter,EdTech,2,235.61,2025-11-08,False,,healthy
+ACC-00940,Starter,Media,3,293.04,2026-01-28,True,2026-05-24,sharp_drop
+ACC-00941,Enterprise,Professional Services,23,2873.37,2026-01-26,True,2026-06-09,sharp_drop
+ACC-00942,Growth,Media,5,665.26,2026-03-07,False,,recovered
+ACC-00943,Scale,Healthcare,6,1039.11,2026-01-05,True,2026-04-13,slow_decay
+ACC-00944,Scale,EdTech,6,1657.18,2026-01-14,True,2026-06-17,slow_decay
+ACC-00945,Starter,Healthcare,3,256.54,2026-04-05,False,,recovered
+ACC-00946,Growth,Media,3,531.72,2026-02-11,False,,seasonal
+ACC-00947,Scale,FinTech,7,1052.71,2026-04-02,False,,healthy
+ACC-00948,Starter,Professional Services,2,128.4,2026-05-02,False,,healthy
+ACC-00949,Growth,Professional Services,3,377.44,2025-11-24,False,,healthy
+ACC-00950,Growth,EdTech,7,962.84,2025-11-08,False,,seasonal
+ACC-00951,Starter,Manufacturing,1,62.27,2026-04-02,False,,healthy
+ACC-00952,Starter,FinTech,2,173.42,2025-12-07,False,,recovered
+ACC-00953,Growth,Professional Services,6,1030.68,2026-05-22,False,,healthy
+ACC-00954,Growth,FinTech,1,165.54,2026-03-29,False,,seasonal
+ACC-00955,Growth,Professional Services,3,193.64,2026-03-27,False,,healthy
+ACC-00956,Scale,Professional Services,33,9167.79,2025-12-02,False,,healthy
+ACC-00957,Scale,Healthcare,10,2631.27,2026-03-06,True,2026-07-03,slow_decay
+ACC-00958,Starter,Retail,5,199.8,2026-01-07,False,,healthy
+ACC-00959,Starter,Professional Services,2,141.66,2025-11-13,False,,seasonal
+ACC-00960,Growth,Manufacturing,3,398.75,2025-12-30,False,,recovered
+ACC-00961,Growth,Logistics,8,446.03,2026-03-09,False,,healthy
+ACC-00962,Starter,Retail,4,434.46,2026-02-07,True,2026-05-31,sharp_drop
+ACC-00963,Growth,Healthcare,17,3092.2,2025-11-02,True,2026-04-22,slow_decay
+ACC-00964,Starter,Healthcare,3,312.37,2026-04-06,False,,healthy
+ACC-00965,Growth,FinTech,3,377.5,2026-03-03,True,2026-06-28,slow_decay
+ACC-00966,Scale,Healthcare,31,7345.4,2026-05-06,False,,recovered
+ACC-00967,Starter,FinTech,2,182.73,2026-05-16,False,,seasonal
+ACC-00968,Growth,FinTech,2,302.95,2026-01-01,True,2026-05-19,sharp_drop
+ACC-00969,Scale,EdTech,11,1822.47,2026-01-02,True,2026-05-11,slow_decay
+ACC-00970,Starter,Media,9,334.41,2026-02-23,False,,healthy
+ACC-00971,Starter,FinTech,1,95.2,2026-02-03,False,,recovered
+ACC-00972,Scale,FinTech,7,786.53,2025-11-15,False,,healthy
+ACC-00973,Starter,Media,5,245.05,2026-01-06,True,2026-06-21,slow_decay
+ACC-00974,Growth,Media,6,906.04,2025-11-18,False,,healthy
+ACC-00975,Scale,FinTech,6,1109.57,2026-03-31,False,,healthy
+ACC-00976,Starter,Retail,5,515.83,2026-02-08,True,2026-06-11,slow_decay
+ACC-00977,Starter,Manufacturing,4,338.86,2026-05-29,False,,healthy
+ACC-00978,Enterprise,FinTech,12,1620.16,2026-02-25,False,,seasonal
+ACC-00979,Growth,FinTech,8,1104.55,2026-03-22,True,2026-07-05,sharp_drop
+ACC-00980,Growth,Logistics,8,936.85,2026-01-05,False,,healthy
+ACC-00981,Scale,Logistics,4,742.45,2026-03-09,False,,healthy
+ACC-00982,Growth,Healthcare,3,388.57,2025-12-28,False,,seasonal
+ACC-00983,Starter,Logistics,2,171.57,2025-11-01,True,2026-06-15,sharp_drop
+ACC-00984,Growth,Logistics,3,488.18,2025-11-28,True,2026-03-07,slow_decay
+ACC-00985,Growth,Logistics,5,389.72,2026-01-12,True,2026-07-20,slow_decay
+ACC-00986,Starter,Logistics,9,635.67,2026-04-04,False,,seasonal
+ACC-00987,Starter,Retail,4,417.88,2025-12-08,False,,healthy
+ACC-00988,Growth,Media,16,2880.26,2025-11-18,False,,healthy
+ACC-00989,Growth,Media,16,1666.53,2026-05-04,False,,seasonal
+ACC-00990,Growth,Healthcare,3,507.91,2026-05-05,False,,seasonal
+ACC-00991,Growth,Healthcare,6,717.47,2026-05-06,False,,slow_decay
+ACC-00992,Growth,Logistics,7,461.89,2026-03-13,False,,recovered
+ACC-00993,Starter,Media,1,68.43,2026-01-12,False,,healthy
+ACC-00994,Scale,Retail,4,465.51,2025-11-21,False,,recovered
+ACC-00995,Starter,Healthcare,11,615.33,2025-11-25,False,,healthy
+ACC-00996,Starter,Logistics,6,461.01,2026-04-26,False,,sharp_drop
+ACC-00997,Growth,EdTech,13,2476.28,2025-11-08,False,,healthy
+ACC-00998,Growth,FinTech,11,1787.16,2026-03-05,True,2026-07-18,slow_decay
+ACC-00999,Growth,Professional Services,5,297.66,2026-04-14,False,,healthy
+ACC-01000,Starter,Retail,2,88.74,2026-05-26,False,,seasonal
+ACC-01001,Growth,Healthcare,7,429.1,2026-03-01,False,,healthy
+ACC-01002,Growth,EdTech,5,668.47,2026-03-16,False,,healthy
+ACC-01003,Starter,Media,7,367.62,2026-03-11,True,2026-07-17,slow_decay
+ACC-01004,Starter,Manufacturing,9,880.1,2026-03-05,False,,seasonal
+ACC-01005,Growth,Logistics,5,575.74,2026-01-06,False,,healthy
+ACC-01006,Starter,Logistics,3,140.07,2026-04-30,False,,slow_decay
+ACC-01007,Growth,Logistics,12,2095.57,2026-02-03,False,,healthy
+ACC-01008,Starter,Manufacturing,2,156.56,2026-04-05,False,,healthy
+ACC-01009,Growth,Logistics,4,321.15,2026-02-01,False,,seasonal
+ACC-01010,Starter,Manufacturing,1,80.93,2026-02-18,False,,seasonal
+ACC-01011,Growth,Manufacturing,2,175.87,2026-03-17,False,,healthy
+ACC-01012,Growth,Retail,9,934.69,2026-01-15,True,2026-05-21,slow_decay
+ACC-01013,Growth,EdTech,4,236.92,2026-02-09,False,,seasonal
+ACC-01014,Scale,FinTech,13,1753.07,2025-12-30,False,,healthy
+ACC-01015,Starter,Professional Services,4,472.06,2026-02-20,True,2026-07-14,slow_decay
+ACC-01016,Scale,FinTech,17,2787.75,2026-05-04,False,,healthy
+ACC-01017,Growth,FinTech,2,127.85,2026-02-23,False,,healthy
+ACC-01018,Growth,Healthcare,4,402.11,2026-02-02,False,,healthy
+ACC-01019,Starter,Media,3,233.22,2026-01-07,False,,healthy
+ACC-01020,Growth,Logistics,2,244.87,2026-01-03,True,2026-06-17,slow_decay
+ACC-01021,Scale,Manufacturing,7,1344.78,2026-02-12,False,,healthy
+ACC-01022,Starter,Logistics,5,461.08,2026-01-11,True,2026-07-01,slow_decay
+ACC-01023,Growth,Media,2,347.1,2025-12-25,True,2026-05-10,sharp_drop
+ACC-01024,Scale,Logistics,3,463.27,2026-01-08,False,,seasonal
+ACC-01025,Starter,Logistics,4,396.28,2026-05-19,False,,seasonal
+ACC-01026,Growth,Healthcare,3,552.64,2026-02-28,False,,seasonal
+ACC-01027,Starter,Retail,9,675.29,2026-01-24,True,2026-05-29,slow_decay
+ACC-01028,Growth,EdTech,6,668.31,2025-11-08,True,2026-06-28,slow_decay
+ACC-01029,Scale,Logistics,9,2000.71,2026-04-02,False,,recovered
+ACC-01030,Scale,Retail,12,3163.37,2026-02-03,False,,seasonal
+ACC-01031,Enterprise,Retail,12,2994.02,2026-05-07,False,,slow_decay
+ACC-01032,Starter,FinTech,23,2023.85,2026-02-09,False,,healthy
+ACC-01033,Starter,Professional Services,9,512.99,2026-02-07,True,2026-05-30,slow_decay
+ACC-01034,Enterprise,Manufacturing,25,10357.61,2026-03-20,False,,healthy
+ACC-01035,Scale,Retail,8,1623.27,2026-02-14,False,,recovered
+ACC-01036,Scale,Retail,2,295.57,2026-03-31,True,2026-07-01,slow_decay
+ACC-01037,Starter,Media,1,93.68,2025-12-11,True,2026-06-08,slow_decay
+ACC-01038,Starter,FinTech,3,353.95,2025-12-03,False,,healthy
+ACC-01039,Enterprise,Professional Services,6,1922.86,2025-11-20,False,,recovered
+ACC-01040,Growth,Professional Services,6,799.89,2025-12-11,False,,recovered
+ACC-01041,Starter,Manufacturing,6,686.84,2026-03-09,False,,healthy
+ACC-01042,Scale,Healthcare,13,1812.01,2026-03-09,False,,healthy
+ACC-01043,Growth,Professional Services,2,114.03,2026-01-28,False,,healthy
+ACC-01044,Growth,EdTech,28,3976.63,2025-11-02,True,2026-03-23,slow_decay
+ACC-01045,Starter,Professional Services,1,119.7,2026-01-27,True,2026-04-27,slow_decay
+ACC-01046,Scale,Professional Services,7,1015.89,2025-11-02,False,,recovered
+ACC-01047,Scale,FinTech,4,488.63,2026-02-28,True,2026-06-07,slow_decay
+ACC-01048,Scale,Retail,16,1569.48,2026-04-07,False,,healthy
+ACC-01049,Starter,Healthcare,3,263.59,2026-02-12,False,,healthy
+ACC-01050,Growth,Healthcare,29,3313.4,2026-02-11,True,2026-06-25,sharp_drop
+ACC-01051,Growth,Healthcare,20,3082.92,2026-03-23,True,2026-06-23,sharp_drop
+ACC-01052,Growth,Professional Services,3,518.11,2026-02-09,False,,healthy
+ACC-01053,Starter,EdTech,5,568.21,2025-12-24,True,2026-04-20,sharp_drop
+ACC-01054,Scale,Retail,1,282.95,2026-03-07,False,,seasonal
+ACC-01055,Starter,FinTech,2,211.33,2026-04-16,False,,healthy
+ACC-01056,Starter,Media,1,74.71,2025-12-24,False,,recovered
+ACC-01057,Growth,Logistics,3,495.82,2026-03-09,False,,healthy
+ACC-01058,Starter,Healthcare,7,703.3,2025-11-06,False,,seasonal
+ACC-01059,Growth,EdTech,11,1833.89,2026-05-01,False,,sharp_drop
+ACC-01060,Growth,EdTech,6,866.14,2026-03-29,False,,healthy
+ACC-01061,Enterprise,Manufacturing,5,2334.93,2026-02-06,False,,healthy
+ACC-01062,Growth,FinTech,6,1071.4,2026-03-29,False,,recovered
+ACC-01063,Starter,Retail,4,225.16,2026-01-15,False,,seasonal
+ACC-01064,Starter,Retail,3,220.01,2026-01-20,False,,healthy
+ACC-01065,Growth,Retail,8,560.46,2025-11-23,False,,recovered
+ACC-01066,Growth,FinTech,5,885.53,2026-02-05,False,,healthy
+ACC-01067,Enterprise,Retail,29,9296.25,2026-03-11,False,,healthy
+ACC-01068,Starter,Retail,6,544.46,2026-03-02,True,2026-07-06,sharp_drop
+ACC-01069,Scale,Retail,10,1894.86,2026-03-25,True,2026-06-29,slow_decay
+ACC-01070,Starter,Logistics,2,83.62,2026-03-21,True,2026-06-25,slow_decay
+ACC-01071,Growth,EdTech,3,150.98,2025-11-30,False,,recovered
+ACC-01072,Starter,Retail,3,92.06,2025-11-29,False,,healthy
+ACC-01073,Starter,Retail,6,453.93,2026-05-10,False,,sharp_drop
+ACC-01074,Growth,EdTech,10,1578.32,2026-02-24,False,,seasonal
+ACC-01075,Growth,Retail,8,676.91,2026-05-04,False,,healthy
+ACC-01076,Growth,Manufacturing,1,116.55,2026-04-29,False,,sharp_drop
+ACC-01077,Starter,FinTech,6,423.87,2026-04-01,False,,healthy
+ACC-01078,Starter,Manufacturing,5,171.4,2025-12-09,False,,healthy
+ACC-01079,Growth,FinTech,3,379.5,2026-05-26,False,,seasonal
+ACC-01080,Growth,Manufacturing,8,1172.12,2025-11-23,True,2026-05-11,slow_decay
+ACC-01081,Starter,Logistics,4,471.66,2026-04-12,False,,recovered
+ACC-01082,Enterprise,EdTech,5,816.5,2026-03-30,False,,healthy
+ACC-01083,Starter,Logistics,6,635.74,2026-03-08,True,2026-06-06,slow_decay
+ACC-01084,Scale,Retail,6,1507.35,2026-02-01,True,2026-07-02,slow_decay
+ACC-01085,Starter,Logistics,14,1030.02,2025-11-08,False,,recovered
+ACC-01086,Scale,Logistics,40,8409.46,2026-03-09,True,2026-07-09,slow_decay
+ACC-01087,Scale,Professional Services,3,352.42,2026-02-05,True,2026-07-22,sharp_drop
+ACC-01088,Starter,FinTech,11,943.18,2025-12-09,False,,healthy
+ACC-01089,Starter,Logistics,2,215.6,2025-11-27,False,,healthy
+ACC-01090,Scale,EdTech,30,2677.78,2025-11-03,True,2026-07-08,sharp_drop
+ACC-01091,Scale,Professional Services,9,2434.22,2025-11-26,True,2026-04-14,slow_decay
+ACC-01092,Starter,Professional Services,3,211.44,2026-01-25,False,,healthy
+ACC-01093,Enterprise,EdTech,18,3407.41,2026-04-15,False,,healthy
+ACC-01094,Growth,Logistics,9,568.98,2026-05-24,False,,healthy
+ACC-01095,Growth,Professional Services,5,275.42,2025-12-20,False,,recovered
+ACC-01096,Scale,Retail,19,1945.96,2026-02-08,False,,seasonal
+ACC-01097,Enterprise,Retail,9,1288.17,2026-02-28,False,,healthy
+ACC-01098,Starter,Manufacturing,2,202.4,2025-11-19,True,2026-06-30,sharp_drop
+ACC-01099,Scale,Logistics,11,3046.02,2026-01-26,True,2026-07-14,slow_decay
+ACC-01100,Growth,EdTech,5,917.9,2025-11-29,False,,healthy
+ACC-01101,Starter,EdTech,2,205.95,2026-04-14,False,,recovered
+ACC-01102,Growth,Logistics,3,459.79,2026-04-04,False,,healthy
+ACC-01103,Enterprise,Logistics,13,3697.41,2025-11-28,False,,healthy
+ACC-01104,Enterprise,Logistics,14,6459.23,2025-12-05,False,,healthy
+ACC-01105,Growth,Retail,6,1018.97,2026-03-28,True,2026-07-19,slow_decay
+ACC-01106,Starter,Manufacturing,4,412.7,2026-05-07,False,,healthy
+ACC-01107,Growth,Logistics,3,442.18,2026-01-07,True,2026-04-17,sharp_drop
+ACC-01108,Scale,EdTech,19,4439.47,2025-12-29,False,,healthy
+ACC-01109,Starter,EdTech,2,233.44,2026-04-27,False,,healthy
+ACC-01110,Growth,Retail,3,519.61,2026-05-25,False,,slow_decay
+ACC-01111,Growth,Logistics,8,1500.87,2026-05-23,False,,healthy
+ACC-01112,Scale,Healthcare,5,1194.89,2025-11-11,True,2026-06-19,sharp_drop
+ACC-01113,Starter,Media,1,105.36,2026-05-27,False,,slow_decay
+ACC-01114,Scale,EdTech,9,1080.74,2026-01-18,False,,recovered
+ACC-01115,Starter,Logistics,2,91.61,2025-12-24,False,,seasonal
+ACC-01116,Scale,FinTech,3,622.65,2026-04-18,True,2026-07-19,slow_decay
+ACC-01117,Growth,Media,5,695.08,2026-01-14,True,2026-05-11,sharp_drop
+ACC-01118,Growth,Professional Services,11,1961.83,2026-04-04,False,,healthy
+ACC-01119,Enterprise,Retail,14,4135.37,2026-04-19,False,,recovered
+ACC-01120,Scale,EdTech,14,2399.2,2026-02-01,False,,recovered
+ACC-01121,Growth,Manufacturing,4,698.54,2025-11-09,False,,healthy
+ACC-01122,Starter,Healthcare,10,532.13,2025-11-25,True,2026-03-21,sharp_drop
+ACC-01123,Starter,Manufacturing,10,841.89,2025-11-13,False,,seasonal
+ACC-01124,Starter,Professional Services,3,306.45,2026-03-31,True,2026-07-10,slow_decay
+ACC-01125,Growth,FinTech,5,378.21,2025-12-04,False,,recovered
+ACC-01126,Scale,EdTech,10,1454.62,2026-03-07,False,,recovered
+ACC-01127,Scale,Media,4,739.05,2025-11-25,False,,seasonal
+ACC-01128,Growth,EdTech,11,1145.39,2025-11-22,True,2026-04-03,sharp_drop
+ACC-01129,Starter,EdTech,7,344.75,2025-11-30,False,,healthy
+ACC-01130,Starter,Logistics,5,436.11,2026-04-01,True,2026-07-01,sharp_drop
+ACC-01131,Enterprise,EdTech,32,4149.04,2026-01-17,False,,healthy
+ACC-01132,Starter,Media,2,140.82,2026-01-09,True,2026-06-17,sharp_drop
+ACC-01133,Scale,Logistics,9,1830.37,2026-05-18,False,,recovered
+ACC-01134,Starter,Manufacturing,1,107.87,2026-05-04,False,,slow_decay
+ACC-01135,Starter,Logistics,1,91.04,2025-11-23,False,,recovered
+ACC-01136,Starter,Retail,8,909.74,2025-11-30,True,2026-04-18,sharp_drop
+ACC-01137,Scale,Media,4,491.96,2026-01-09,False,,healthy
+ACC-01138,Scale,Professional Services,63,7967.95,2025-11-25,False,,healthy
+ACC-01139,Growth,Logistics,3,209.94,2026-01-03,False,,recovered
+ACC-01140,Starter,Media,2,81.7,2025-11-22,True,2026-05-13,sharp_drop
+ACC-01141,Scale,Professional Services,4,557.22,2026-03-12,True,2026-07-09,slow_decay
+ACC-01142,Growth,Professional Services,7,1220.95,2026-03-20,False,,recovered
+ACC-01143,Scale,Logistics,8,613.08,2025-11-27,True,2026-04-07,sharp_drop
+ACC-01144,Starter,Media,2,145.51,2025-11-17,False,,healthy
+ACC-01145,Growth,Media,11,656.52,2025-11-22,False,,seasonal
+ACC-01146,Scale,Healthcare,10,925.21,2026-05-28,False,,slow_decay
+ACC-01147,Growth,Logistics,6,827.22,2026-04-04,False,,recovered
+ACC-01148,Scale,EdTech,6,467.08,2026-02-02,False,,healthy
+ACC-01149,Scale,EdTech,7,1150.38,2026-02-26,False,,seasonal
+ACC-01150,Growth,Manufacturing,4,292.7,2026-02-06,True,2026-06-29,sharp_drop
+ACC-01151,Enterprise,EdTech,8,2578.94,2025-11-23,False,,healthy
+ACC-01152,Starter,EdTech,1,107.6,2026-05-24,False,,seasonal
+ACC-01153,Growth,Logistics,2,127.27,2026-01-02,False,,seasonal
+ACC-01154,Starter,Manufacturing,3,124.65,2025-12-31,False,,seasonal
+ACC-01155,Growth,Healthcare,5,295.18,2025-11-01,True,2026-06-16,sharp_drop
+ACC-01156,Enterprise,FinTech,14,1997.65,2025-11-13,False,,healthy
+ACC-01157,Scale,Professional Services,19,4065.26,2025-11-17,True,2026-07-14,slow_decay
+ACC-01158,Starter,Retail,1,33.96,2026-02-13,False,,seasonal
+ACC-01159,Starter,FinTech,5,157.76,2025-11-05,False,,healthy
+ACC-01160,Growth,Media,9,1257.17,2026-05-25,False,,slow_decay
+ACC-01161,Enterprise,EdTech,20,4243.75,2026-04-29,False,,slow_decay
+ACC-01162,Growth,Professional Services,24,2813.37,2026-04-21,False,,seasonal
+ACC-01163,Enterprise,Logistics,16,2078.31,2026-04-02,False,,seasonal
+ACC-01164,Starter,Media,1,118.81,2026-01-25,False,,healthy
+ACC-01165,Starter,Retail,3,178.43,2025-11-14,False,,healthy
+ACC-01166,Growth,Retail,11,2058.81,2026-04-05,False,,healthy
+ACC-01167,Starter,FinTech,4,174.92,2025-11-19,False,,seasonal
+ACC-01168,Enterprise,Media,6,847.86,2026-05-24,False,,healthy
+ACC-01169,Starter,FinTech,4,440.43,2026-02-22,False,,healthy
+ACC-01170,Starter,FinTech,5,356.37,2026-01-27,False,,healthy
+ACC-01171,Starter,Retail,4,228.86,2025-12-30,False,,healthy
+ACC-01172,Scale,Retail,30,3404.56,2026-02-28,False,,healthy
+ACC-01173,Starter,Manufacturing,4,336.57,2026-03-22,True,2026-07-01,sharp_drop
+ACC-01174,Starter,Manufacturing,2,122.17,2026-01-11,False,,healthy
+ACC-01175,Scale,Media,47,7498.96,2026-03-16,False,,healthy
+ACC-01176,Starter,FinTech,2,151.75,2025-11-11,False,,healthy
+ACC-01177,Growth,Professional Services,9,1536.32,2025-11-20,False,,recovered
+ACC-01178,Scale,Media,14,3658.21,2026-05-18,False,,healthy
+ACC-01179,Enterprise,Retail,8,2836.57,2026-05-04,False,,slow_decay
+ACC-01180,Starter,Professional Services,18,1381.39,2026-02-11,False,,healthy
+ACC-01181,Starter,Manufacturing,4,229.7,2026-05-28,False,,sharp_drop
+ACC-01182,Starter,Professional Services,3,119.59,2026-02-17,True,2026-07-03,sharp_drop
+ACC-01183,Starter,Logistics,5,355.46,2026-04-13,False,,healthy
+ACC-01184,Starter,Professional Services,1,95.41,2025-12-02,False,,healthy
+ACC-01185,Starter,Logistics,3,329.87,2026-02-14,False,,seasonal
+ACC-01186,Growth,EdTech,4,349.45,2026-02-16,False,,healthy
+ACC-01187,Starter,EdTech,4,135.2,2026-04-01,False,,healthy
+ACC-01188,Growth,Media,2,287.56,2025-12-17,False,,seasonal
+ACC-01189,Starter,FinTech,3,308.78,2026-02-13,True,2026-07-12,slow_decay
+ACC-01190,Growth,FinTech,15,1450.98,2025-11-24,False,,healthy
+ACC-01191,Starter,Retail,6,688.4,2025-11-30,False,,healthy
+ACC-01192,Starter,Healthcare,9,579.98,2026-03-24,False,,seasonal
+ACC-01193,Starter,Retail,5,443.34,2026-05-13,False,,healthy
+ACC-01194,Starter,Professional Services,3,103.5,2026-01-12,True,2026-06-28,slow_decay
+ACC-01195,Enterprise,Healthcare,18,3450.76,2026-04-04,True,2026-07-05,slow_decay
+ACC-01196,Scale,EdTech,28,6992.64,2025-12-06,True,2026-03-15,slow_decay
+ACC-01197,Starter,Healthcare,3,199.37,2026-02-11,False,,healthy
+ACC-01198,Starter,Media,3,354.96,2026-01-04,False,,healthy
+ACC-01199,Starter,Healthcare,1,119.37,2026-04-03,True,2026-07-15,sharp_drop
