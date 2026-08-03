@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated data & artifacts (regenerate via run_pipeline.sh)
+data/*.csv
+models/*.joblib
+reports/*.csv
+reports/*.json
+
+# Keep folder structure in git even though contents are ignored
+!data/.gitkeep
+!models/.gitkeep
+!reports/.gitkeep
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
+*.log
