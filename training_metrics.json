@@ -1,0 +1,108 @@
+{
+  "roc_auc": 0.9945473515248796,
+  "pr_auc": 0.9740166101822052,
+  "brier_score": 0.019545004476735395,
+  "chosen_threshold": 0.9900946293679543,
+  "classification_report": {
+    "0": {
+      "precision": 0.9121265377855887,
+      "recall": 0.9996789727126806,
+      "f1-score": 0.9538979935671619,
+      "support": 3115.0
+    },
+    "1": {
+      "precision": 0.9966777408637874,
+      "recall": 0.5,
+      "f1-score": 0.6659267480577137,
+      "support": 600.0
+    },
+    "accuracy": 0.9189771197846568,
+    "macro avg": {
+      "precision": 0.954402139324688,
+      "recall": 0.7498394863563402,
+      "f1-score": 0.8099123708124378,
+      "support": 3715.0
+    },
+    "weighted avg": {
+      "precision": 0.9257821829664553,
+      "recall": 0.9189771197846568,
+      "f1-score": 0.9073885057325269,
+      "support": 3715.0
+    }
+  },
+  "gains_table": [
+    {
+      "top_pct_of_accounts": 10.0,
+      "accounts_flagged": 372,
+      "true_churners_caught": 365,
+      "pct_of_all_churners_caught": 60.8,
+      "precision_in_flagged_set": 0.981
+    },
+    {
+      "top_pct_of_accounts": 20.0,
+      "accounts_flagged": 743,
+      "true_churners_caught": 587,
+      "pct_of_all_churners_caught": 97.8,
+      "precision_in_flagged_set": 0.79
+    },
+    {
+      "top_pct_of_accounts": 30.0,
+      "accounts_flagged": 1115,
+      "true_churners_caught": 598,
+      "pct_of_all_churners_caught": 99.7,
+      "precision_in_flagged_set": 0.536
+    },
+    {
+      "top_pct_of_accounts": 40.0,
+      "accounts_flagged": 1486,
+      "true_churners_caught": 600,
+      "pct_of_all_churners_caught": 100.0,
+      "precision_in_flagged_set": 0.404
+    },
+    {
+      "top_pct_of_accounts": 50.0,
+      "accounts_flagged": 1858,
+      "true_churners_caught": 600,
+      "pct_of_all_churners_caught": 100.0,
+      "precision_in_flagged_set": 0.323
+    },
+    {
+      "top_pct_of_accounts": 60.0,
+      "accounts_flagged": 2229,
+      "true_churners_caught": 600,
+      "pct_of_all_churners_caught": 100.0,
+      "precision_in_flagged_set": 0.269
+    },
+    {
+      "top_pct_of_accounts": 70.0,
+      "accounts_flagged": 2600,
+      "true_churners_caught": 600,
+      "pct_of_all_churners_caught": 100.0,
+      "precision_in_flagged_set": 0.231
+    },
+    {
+      "top_pct_of_accounts": 80.0,
+      "accounts_flagged": 2972,
+      "true_churners_caught": 600,
+      "pct_of_all_churners_caught": 100.0,
+      "precision_in_flagged_set": 0.202
+    },
+    {
+      "top_pct_of_accounts": 90.0,
+      "accounts_flagged": 3343,
+      "true_churners_caught": 600,
+      "pct_of_all_churners_caught": 100.0,
+      "precision_in_flagged_set": 0.179
+    },
+    {
+      "top_pct_of_accounts": 100.0,
+      "accounts_flagged": 3715,
+      "true_churners_caught": 600,
+      "pct_of_all_churners_caught": 100.0,
+      "precision_in_flagged_set": 0.162
+    }
+  ],
+  "train_rows": 14207,
+  "valid_rows": 3715,
+  "split_cutoff_date": "2026-06-04"
+}
